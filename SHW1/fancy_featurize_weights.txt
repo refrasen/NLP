@@ -1,0 +1,5428 @@
+-0.02088	__BIAS__
+-0.20959	bad
+-0.13762	worst
+-0.11347	could
+-0.10864	script
+-0.10054	the worst
+-0.10050	nothing
+-0.09959	but
+-0.09626	not
+-0.09543	minutes
+-0.08925	not_
+-0.08876	do
+-0.08418	terrible
+-0.08119	plot
+-0.08053	looks
+-0.07902	movie 
+-0.07847	been
+-0.07785	even
+-0.07733	not_even
+-0.07694	better
+-0.07359	poor
+-0.07261	"
+-0.07172	like
+-0.07033	oh
+-0.06947	bad 
+-0.06756	let
+-0.06688	worse
+-0.06593	not_i
+-0.06354	awful
+-0.06312	boring
+-0.06296	the script
+-0.06147	horror
+-0.06091	not_to
+-0.06079	not_ i
+-0.06060	movie
+-0.05937	why
+-0.05826	horrible
+-0.05807	guess
+-0.05789	waste
+-0.05723	the acting
+-0.05714	off
+-0.05692	instead
+-0.05523	thing
+-0.05466	stupid
+-0.05465	not_movie
+-0.05377	ok
+-0.05321	not not_even
+-0.05301	actually
+-0.05277	supposed
+-0.05195	actors
+-0.05174	not_this
+-0.05160	could have
+-0.05149	not_all
+-0.05133	not_ and
+-0.05072	do n't
+-0.05029	feels
+-0.05018	make
+-0.04995	not_make
+-0.04992	only
+-0.04958	or
+-0.04950	not_an
+-0.04944	not_any
+-0.04899	least
+-0.04898	there is
+-0.04888	decent
+-0.04878	wasted
+-0.04866	looking
+-0.04850	time 
+-0.04822	not_better
+-0.04814	of
+-0.04751	dialogue
+-0.04732	could n't
+-0.04729	rather
+-0.04724	predictable
+-0.04713	every
+-0.04681	waste of
+-0.04678	n't not_even
+-0.04666	look
+-0.04642	lead
+-0.04577	not_funny
+-0.04551	money
+-0.04547	effects
+-0.04518	old
+-0.04474	fails
+-0.04469	basically
+-0.04429	dull
+-0.04410	getting
+-0.04382	supposed to
+-0.04378	unfortunately
+-0.04352	tv
+-0.04327	he 's
+-0.04318	i guess
+-0.04317	this 
+-0.04309	at
+-0.04303	of the worst
+-0.04300	production
+-0.04298	save
+-0.04284	film was
+-0.04276	not_ the
+-0.04265	too
+-0.04264	crap
+-0.04246	pathetic
+-0.04243	would
+-0.04234	they
+-0.04229	avoid
+-0.04220	not_as
+-0.04218	non
+-0.04217	terrible 
+-0.04200	that was
+-0.04129	it 's not
+-0.04119	n't
+-0.04115	a film
+-0.04109	but this
+-0.04106	not_think
+-0.04086	's not
+-0.04081	just
+-0.04075	acting
+-0.04065	someone
+-0.04040	seems
+-0.04039	joke
+-0.04032	pretty
+-0.04012	sorry
+-0.04001	stop
+-0.03995	to have
+-0.03953	are not
+-0.03945	given
+-0.03939	'm
+-0.03939	i 'm
+-0.03906	at all
+-0.03902	not_the not_original
+-0.03895	started
+-0.03873	enough
+-0.03847	failed
+-0.03846	with
+-0.03836	the problem
+-0.03819	" the
+-0.03800	exactly
+-0.03780	funny
+-0.03776	*
+-0.03775	so bad
+-0.03756	low
+-0.03733	another
+-0.03719	not_this not_movie
+-0.03696	a horror
+-0.03692	then
+-0.03690	not_ever
+-0.03639	not_movie not_
+-0.03638	them
+-0.03627	sound
+-0.03619	too many
+-0.03614	thin
+-0.03613	gore
+-0.03607	not_at not_all
+-0.03595	ridiculous
+-0.03579	be a
+-0.03573	annoying
+-0.03572	obvious
+-0.03567	is so
+-0.03560	the original
+-0.03543	non not_-
+-0.03541	doing
+-0.03538	as if
+-0.03522	attempt
+-0.03488	4/10
+-0.03485	a few
+-0.03481	seem
+-0.03477	have been
+-0.03457	money 
+-0.03441	not_here
+-0.03438	silly
+-0.03434	sequences
+-0.03413	to be a
+-0.03411	not_at not_all not_
+-0.03406	not_enough
+-0.03404	had a
+-0.03393	let me
+-0.03393	grade
+-0.03392	did n't
+-0.03391	not not_a
+-0.03380	start
+-0.03370	the only
+-0.03348	effects 
+-0.03343	of time
+-0.03341	idea
+-0.03339	enough not_
+-0.03339	not_recommend
+-0.03336	cheap
+-0.03326	ideas
+-0.03308	to make
+-0.03306	worse 
+-0.03301	badly
+-0.03298	few
+-0.03293	not_waste
+-0.03281	that would
+-0.03278	written
+-0.03273	supposed to be
+-0.03266	not_worth
+-0.03266	would have
+-0.03263	not_idea
+-0.03256	crap 
+-0.03252	minutes of
+-0.03245	hours
+-0.03238	not_it
+-0.03238	but then
+-0.03210	's "
+-0.03206	fake
+-0.03201	out to
+-0.03198	/
+-0.03197	pointless
+-0.03192	lame
+-0.03180	n't not_make
+-0.03180	is nothing
+-0.03140	of '
+-0.03136	not_than
+-0.03133	not_actually
+-0.03132	awful 
+-0.03115	horror movie
+-0.03111	plot 
+-0.03108	by
+-0.03106	give
+-0.03103	not_the not_movie
+-0.03095	with a
+-0.03090	poorly
+-0.03088	at least
+-0.03085	'
+-0.03073	forward
+-0.03070	sit through
+-0.03066	not_ even
+-0.03065	the director
+-0.03065	where
+-0.03065	the second
+-0.03064	not_it not_
+-0.03059	please
+-0.03052	care
+-0.03042	in the first
+-0.03039	female
+-0.03038	why 
+-0.03019	ex
+-0.03016	not_me
+-0.03010	i am
+-0.02991	wonder
+-0.02990	fails to
+-0.02990	flick
+-0.02989	original
+-0.02975	was
+-0.02972	nobody
+-0.02967	of a
+-0.02965	holes
+-0.02960	entire
+-0.02960	predictable 
+-0.02956	even the
+-0.02948	reviews
+-0.02948	had
+-0.02944	a movie 
+-0.02943	rent
+-0.02941	what a
+-0.02938	gets
+-0.02936	not_ or
+-0.02922	attempt to
+-0.02921	made a
+-0.02899	out of the
+-0.02894	instead 
+-0.02891	but i
+-0.02887	aimed
+-0.02886	disappointed
+-0.02876	laughable
+-0.02875	at all 
+-0.02875	not_(
+-0.02873	not_being
+-0.02871	not_the not_characters
+-0.02864	stupid 
+-0.02857	not_wrong
+-0.02855	one 
+-0.02855	imdb
+-0.02850	f
+-0.02847	not_at
+-0.02846	not_on
+-0.02828	male
+-0.02828	not_this not_
+-0.02827	video
+-0.02819	starts
+-0.02800	the problem is
+-0.02798	copy
+-0.02797	not_all not_
+-0.02796	anyway
+-0.02791	would n't
+-0.02788	you could
+-0.02778	not_like
+-0.02770	typical
+-0.02762	where the
+-0.02752	like he
+-0.02743	for this
+-0.02742	not_on not_this
+-0.02741	not_fan
+-0.02735	the most
+-0.02733	waste of time
+-0.02723	hope
+-0.02721	n't not_have
+-0.02716	the lead
+-0.02712	large
+-0.02703	not_film
+-0.02702	gave
+-0.02695	not_she
+-0.02691	this movie 
+-0.02690	they do
+-0.02686	" film
+-0.02682	year old
+-0.02673	need to
+-0.02671	school
+-0.02668	actress
+-0.02664	none
+-0.02663	despite
+-0.02656	either
+-0.02649	there was a
+-0.02646	not_done
+-0.02646	yeah
+-0.02636	hair
+-0.02634	i did not
+-0.02634	was n't
+-0.02627	half
+-0.02614	sex
+-0.02612	acting was
+-0.02611	about the
+-0.02610	instead of
+-0.02605	mother
+-0.02601	mean 
+-0.02596	oh 
+-0.02593	is just
+-0.02583	for
+-0.02583	involved
+-0.02576	want to
+-0.02572	thrown
+-0.02562	had been
+-0.02561	not_like not_a
+-0.02557	like the
+-0.02553	think that
+-0.02549	idea 
+-0.02543	not_one not_
+-0.02543	i found
+-0.02537	not_worst
+-0.02534	about this
+-0.02532	might
+-0.02532	what 's
+-0.02520	the dialogue
+-0.02516	everyone
+-0.02511	not_characters
+-0.02511	except
+-0.02509	talented
+-0.02509	turned
+-0.02507	looked
+-0.02502	version
+-0.02494	" ) 
+-0.02494	boring 
+-0.02483	value
+-0.02482	i 've seen
+-0.02481	not_redeeming
+-0.02481	and i 'm
+-0.02476	've seen
+-0.02472	watched
+-0.02464	or even
+-0.02461	screen time
+-0.02458	not not_funny
+-0.02453	4
+-0.02452	not_original
+-0.02451	the plot
+-0.02451	example
+-0.02449	is 
+-0.02446	not_ what
+-0.02441	obviously
+-0.02439	not_horror
+-0.02432	saw the
+-0.02426	i will
+-0.02424	not_ but
+-0.02410	in it
+-0.02408	does not
+-0.02407	a decent
+-0.02407	but the
+-0.02406	weekend
+-0.02405	book 
+-0.02401	back 
+-0.02397	not_where
+-0.02394	mediocre
+-0.02392	i also
+-0.02392	not_to not_the
+-0.02389	college
+-0.02389	not_ however
+-0.02388	thinks
+-0.02388	this "
+-0.02383	script is
+-0.02381	using
+-0.02378	not_this not_movie not_
+-0.02378	i know
+-0.02375	not_there
+-0.02371	in a movie
+-0.02371	even worse
+-0.02356	to it
+-0.02353	if
+-0.02353	may have
+-0.02349	the
+-0.02342	better 
+-0.02341	not_something
+-0.02340	cliché
+-0.02338	never been
+-0.02333	the acting was
+-0.02333	nudity
+-0.02332	interesting 
+-0.02326	bunch of
+-0.02315	here
+-0.02306	scenes
+-0.02304	minute
+-0.02304	apart from
+-0.02303	just a
+-0.02302	seems like
+-0.02299	that are
+-0.02294	anything
+-0.02293	bottom
+-0.02293	how bad
+-0.02291	slow
+-0.02290	they 've
+-0.02288	type
+-0.02288	example of
+-0.02287	looks like
+-0.02282	okay
+-0.02279	not_made
+-0.02276	is as
+-0.02274	not_more
+-0.02271	if i
+-0.02269	the script is
+-0.02266	with this
+-0.02265	not_the not_worst
+-0.02265	this could
+-0.02264	'm not
+-0.02264	i 'm not
+-0.02261	not_should
+-0.02250	shooting
+-0.02249	not_was not_going
+-0.02243	does it
+-0.02242	it would
+-0.02242	guy
+-0.02239	fan
+-0.02231	s
+-0.02226	honestly
+-0.02220	it does n't
+-0.02217	have been a
+-0.02215	making
+-0.02210	not_'m
+-0.02210	not_i not_'m
+-0.02200	not_your not_time
+-0.02198	or something 
+-0.02197	watching this
+-0.02196	
+-0.02195	premise
+-0.02194	's the
+-0.02192	there was
+-0.02188	i watched
+-0.02187	whilst
+-0.02178	do 
+-0.02173	is made
+-0.02172	hardly
+-0.02171	not not_that
+-0.02167	to do
+-0.02167	then the
+-0.02167	a waste
+-0.02165	potential
+-0.02164	here 
+-0.02157	nothing not_more
+-0.02156	not not_the
+-0.02155	wooden
+-0.02155	lacks
+-0.02155	need
+-0.02152	build
+-0.02151	not_face
+-0.02145	a large
+-0.02144	film had
+-0.02143	the production
+-0.02142	cut
+-0.02138	a guy
+-0.02137	not_plot not_
+-0.02132	cute
+-0.02130	the entire
+-0.02125	not_" not_
+-0.02121	i mean
+-0.02117	minutes 
+-0.02117	to stop
+-0.02107	positive
+-0.02107	crappy
+-0.02103	special effects
+-0.02097	bunch
+-0.02095	decided
+-0.02094	unnecessary
+-0.02094	creatures
+-0.02090	avoid this
+-0.02087	or something
+-0.02086	off a
+-0.02086	lack
+-0.02085	minutes of the
+-0.02080	directors
+-0.02078	the relationship
+-0.02077	mess
+-0.02076	not not_make
+-0.02073	they have
+-0.02072	cult
+-0.02071	do not
+-0.02069	unless you
+-0.02069	something 
+-0.02067	not_will
+-0.02061	not_with not_the
+-0.02058	' the
+-0.02057	theater
+-0.02056	producers
+-0.02056	dog
+-0.02055	creepy
+-0.02055	a joke
+-0.02051	not_two
+-0.02047	not_cast
+-0.02047	something
+-0.02046	sadly
+-0.02044	not_waste not_your
+-0.02041	for a
+-0.02038	continuity
+-0.02037	the film was
+-0.02035	funny 
+-0.02035	you are
+-0.02030	only thing
+-0.02030	the only thing
+-0.02030	that 's
+-0.02029	initial
+-0.02029	it did n't
+-0.02027	collection
+-0.02026	if you want
+-0.02025	very bad
+-0.02023	poor 
+-0.02021	i should
+-0.02014	want
+-0.02011	the mood
+-0.02008	school 
+-0.02007	unbelievable
+-0.02007	the "
+-0.01997	sorry 
+-0.01996	painful
+-0.01995	not_ why
+-0.01994	often
+-0.01994	laughable 
+-0.01993	hunt
+-0.01993	dialogue 
+-0.01985	a bunch
+-0.01985	a bunch of
+-0.01984	re -
+-0.01984	history of
+-0.01979	i 've
+-0.01978	not_one
+-0.01971	bad movies
+-0.01971	not_waste not_your not_time
+-0.01969	give this
+-0.01969	not_watching
+-0.01968	than a
+-0.01962	endless
+-0.01961	the plot 
+-0.01959	not_money
+-0.01958	blood
+-0.01958	hopes
+-0.01957	seemed
+-0.01955	not_ there
+-0.01953	cover
+-0.01952	written by
+-0.01952	not_ not
+-0.01949	can you
+-0.01947	dimensional
+-0.01943	not_funny not_
+-0.01942	you have
+-0.01940	not_wrong not_
+-0.01935	absolute
+-0.01935	but there
+-0.01929	a waste of
+-0.01924	of the movie
+-0.01921	1/2
+-0.01919	your
+-0.01917	made
+-0.01917	sequel
+-0.01909	the movie
+-0.01909	not_minutes
+-0.01904	tries
+-0.01901	not_no
+-0.01900	joke 
+-0.01897	they 're
+-0.01897	was an
+-0.01897	b
+-0.01893	movie as a
+-0.01893	not_much not_
+-0.01893	attempts to
+-0.01891	self
+-0.01890	have never
+-0.01888	guns
+-0.01887	all 
+-0.01884	the original 
+-0.01882	is to
+-0.01880	up 
+-0.01878	after
+-0.01878	neither
+-0.01878	lot of
+-0.01877	film "
+-0.01874	this crap
+-0.01874	really 
+-0.01869	to him
+-0.01869	it gets
+-0.01868	band
+-0.01866	though 
+-0.01864	could have been
+-0.01863	not_make not_a
+-0.01859	cartoon
+-0.01858	ex -
+-0.01852	there is nothing
+-0.01851	not_this not_one
+-0.01851	unless
+-0.01851	nothing not_to
+-0.01844	into a
+-0.01842	already
+-0.01840	" 
+-0.01840	play
+-0.01840	group
+-0.01840	not_time
+-0.01838	the producers
+-0.01836	angles
+-0.01835	do n't not_waste
+-0.01835	n't not_waste
+-0.01834	not_ i was
+-0.01828	than this
+-0.01827	this film was
+-0.01826	-
+-0.01826	not_that not_
+-0.01825	is supposed
+-0.01825	is supposed to
+-0.01825	daughter
+-0.01824	rubbish
+-0.01821	it looks
+-0.01813	listen
+-0.01813	have
+-0.01812	not_ do n't
+-0.01810	not_nothing
+-0.01809	re
+-0.01809	problem
+-0.01808	not_a
+-0.01808	of the characters
+-0.01807	here and
+-0.01805	fell
+-0.01803	a bad
+-0.01799	like they
+-0.01799	it up
+-0.01798	think they
+-0.01788	in one
+-0.01788	n't not_think
+-0.01783	not_actor
+-0.01783	song 
+-0.01782	not_bad not_
+-0.01780	usual
+-0.01780	to another
+-0.01779	eye
+-0.01779	a plot
+-0.01778	possible
+-0.01776	not_feel
+-0.01776	not_either
+-0.01776	promising
+-0.01775	garbage
+-0.01775	kill
+-0.01773	it might
+-0.01772	to be
+-0.01772	not_ (
+-0.01770	into the
+-0.01768	matter
+-0.01764	of my life
+-0.01762	over -
+-0.01760	and other
+-0.01758	suppose
+-0.01757	my wife
+-0.01756	and just
+-0.01753	parts of
+-0.01751	been a
+-0.01751	not_scene
+-0.01747	not_put
+-0.01741	member
+-0.01741	he was
+-0.01736	date
+-0.01732	book
+-0.01732	have no
+-0.01731	not_more not_
+-0.01731	mouth
+-0.01730	your own
+-0.01729	flick 
+-0.01728	much better
+-0.01728	random
+-0.01727	not_place
+-0.01726	and a half
+-0.01725	flat
+-0.01725	fine 
+-0.01724	it seems
+-0.01723	not_movies
+-0.01722	putting
+-0.01722	of people
+-0.01721	one thing
+-0.01720	i think that
+-0.01716	not_the not_story
+-0.01715	not_bad
+-0.01715	've
+-0.01713	gun
+-0.01712	monster
+-0.01711	not_or
+-0.01710	happen
+-0.01709	air
+-0.01705	too much
+-0.01703	should
+-0.01703	i am a
+-0.01700	look like
+-0.01696	n't not_the
+-0.01695	that
+-0.01695	have made
+-0.01693	memory
+-0.01691	bottom line
+-0.01688	the book 
+-0.01688	scene in
+-0.01686	in every
+-0.01683	not_ 
+-0.01678	that even
+-0.01676	what
+-0.01673	i mean 
+-0.01673	script 
+-0.01669	how to
+-0.01669	talent
+-0.01669	of bad
+-0.01666	a half
+-0.01664	writing
+-0.01663	on this
+-0.01662	ron
+-0.01658	not_bother
+-0.01656	problems 
+-0.01656	not_to not_work
+-0.01652	movie would
+-0.01652	not_better not_
+-0.01652	red
+-0.01649	going to be
+-0.01649	myself
+-0.01648	to work
+-0.01644	they do n't
+-0.01642	is bad 
+-0.01642	not_films
+-0.01640	say the
+-0.01636	fail
+-0.01634	not_ in
+-0.01634	worse than
+-0.01632	far
+-0.01625	acting is
+-0.01625	running
+-0.01622	production values
+-0.01619	move
+-0.01619	possible 
+-0.01618	fantasy
+-0.01617	incredibly
+-0.01615	would be a
+-0.01615	and they
+-0.01614	songs
+-0.01613	not_some
+-0.01612	laughs
+-0.01610	are you
+-0.01610	is a film
+-0.01609	of it 
+-0.01608	sorry for
+-0.01607	i would n't
+-0.01607	there is a
+-0.01607	to kill
+-0.01607	zero
+-0.01607	only for
+-0.01607	the guy
+-0.01607	rather than
+-0.01603	fan of
+-0.01601	entire film
+-0.01601	the entire film
+-0.01600	realize
+-0.01597	bruce
+-0.01594	expect
+-0.01593	down the
+-0.01592	horrible 
+-0.01591	not_least
+-0.01588	protagonist
+-0.01588	of time 
+-0.01583	90
+-0.01582	and would
+-0.01581	dreadful
+-0.01580	not_why
+-0.01576	) has
+-0.01576	he meets
+-0.01574	not_script
+-0.01570	type of
+-0.01567	the ending
+-0.01566	not_through
+-0.01564	much of
+-0.01563	stick
+-0.01562	not_as not_an
+-0.01561	not_enough to
+-0.01560	am
+-0.01559	the acting is
+-0.01557	was just
+-0.01553	too bad
+-0.01548	as
+-0.01548	thing that
+-0.01542	to add
+-0.01541	let 's
+-0.01541	hand
+-0.01539	cast and
+-0.01537	with the
+-0.01537	lucky
+-0.01537	as well
+-0.01535	grade 
+-0.01534	to make a
+-0.01533	not_be not_
+-0.01532	fourth
+-0.01531	i gave
+-0.01531	of these
+-0.01531	the first
+-0.01530	kid 
+-0.01529	it did
+-0.01527	all over
+-0.01525	tries to
+-0.01522	except for
+-0.01522	) are
+-0.01520	to go
+-0.01517	books
+-0.01516	not_want not_to
+-0.01516	outside
+-0.01514	horror films
+-0.01512	scary
+-0.01512	excited
+-0.01511	$
+-0.01510	not_it not_ i
+-0.01510	since
+-0.01510	meant
+-0.01507	second
+-0.01507	worst 
+-0.01505	movie as
+-0.01505	i was hoping
+-0.01505	was hoping
+-0.01502	a low
+-0.01500	not_budget
+-0.01498	in this movie
+-0.01498	it makes
+-0.01495	not_ if
+-0.01494	sake
+-0.01494	interesting
+-0.01490	far too
+-0.01489	and why
+-0.01488	did 
+-0.01485	being a
+-0.01485	mention
+-0.01482	year
+-0.01482	were not
+-0.01482	down
+-0.01481	cause
+-0.01480	" i
+-0.01480	's just
+-0.01480	barely
+-0.01478	attempts
+-0.01478	anyway 
+-0.01478	boys
+-0.01472	if it
+-0.01470	the theater
+-0.01469	excuse for
+-0.01469	in -
+-0.01465	watched this
+-0.01464	to say the
+-0.01463	problem is
+-0.01459	saved
+-0.01458	as you
+-0.01458	hoping
+-0.01457	is actually
+-0.01455	the action
+-0.01454	not_director
+-0.01453	million
+-0.01450	not_thing
+-0.01449	not not_much
+-0.01449	they are
+-0.01446	the scenes
+-0.01446	humour
+-0.01446	cgi
+-0.01445	were the
+-0.01445	like that
+-0.01444	stuff
+-0.01443	holds
+-0.01442	)
+-0.01440	not_ and i
+-0.01439	time i
+-0.01438	not_your
+-0.01438	not_performance
+-0.01437	extent
+-0.01436	rise
+-0.01431	changing
+-0.01431	not_ so
+-0.01430	we 're
+-0.01429	not_see
+-0.01427	sort of
+-0.01427	totally
+-0.01424	kids
+-0.01424	falls
+-0.01422	the sound
+-0.01421	special effects 
+-0.01420	me to
+-0.01420	unfortunately 
+-0.01416	what 
+-0.01416	not_want
+-0.01415	strange
+-0.01413	not_the not_plot
+-0.01413	make -
+-0.01410	is able
+-0.01410	is able to
+-0.01407	boyfriend
+-0.01405	needs to
+-0.01405	psycho
+-0.01405	called
+-0.01403	irritating
+-0.01403	not_anyone
+-0.01400	the fact
+-0.01397	is too
+-0.01396	runs
+-0.01396	spot
+-0.01394	released in
+-0.01390	bad that
+-0.01390	please 
+-0.01389	hurt
+-0.01386	got to
+-0.01385	was 
+-0.01385	is it
+-0.01385	not_many
+-0.01384	lame 
+-0.01384	movie (
+-0.01384	film i
+-0.01380	huge
+-0.01379	in it 
+-0.01378	say the least
+-0.01375	was released
+-0.01373	board
+-0.01373	image
+-0.01373	not_long
+-0.01372	about it 
+-0.01361	not not_like
+-0.01360	house
+-0.01356	from that
+-0.01354	it up 
+-0.01352	with him
+-0.01351	wrote
+-0.01351	watched the
+-0.01351	not_off
+-0.01350	clearly
+-0.01350	the least
+-0.01349	comment
+-0.01348	does n't not_make
+-0.01344	mean
+-0.01340	its
+-0.01340	scientist
+-0.01339	far from
+-0.01339	been made
+-0.01337	door
+-0.01337	must have
+-0.01336	what is
+-0.01335	drive
+-0.01334	sexual
+-0.01333	fast
+-0.01331	not_this not_one not_
+-0.01331	material 
+-0.01328	deaths
+-0.01327	big
+-0.01327	sense
+-0.01326	really
+-0.01324	not_me not_
+-0.01322	not_ perhaps
+-0.01322	clichés
+-0.01321	not not_really
+-0.01320	vampire
+-0.01320	not_a not_few
+-0.01320	because the
+-0.01319	surely
+-0.01318	is not
+-0.01317	opening
+-0.01316	ok 
+-0.01312	main
+-0.01312	might have
+-0.01312	know
+-0.01308	serious
+-0.01307	gordon
+-0.01307	excuse
+-0.01306	five
+-0.01306	not_as not_a
+-0.01306	sean
+-0.01304	not_scary
+-0.01302	tone
+-0.01299	it all
+-0.01299	case 
+-0.01299	possibly
+-0.01297	list
+-0.01297	onto
+-0.01292	i want
+-0.01292	you 
+-0.01291	point of
+-0.01291	how many
+-0.01290	apparently
+-0.01289	you need
+-0.01288	completely
+-0.01284	100
+-0.01284	not_going
+-0.01283	as being
+-0.01283	to believe
+-0.01283	non not_- not_existent
+-0.01283	not_- not_existent
+-0.01283	not_existent
+-0.01283	not_ this movie
+-0.01281	forget
+-0.01277	she does
+-0.01275	cool
+-0.01275	seems to be
+-0.01274	a child
+-0.01273	if there
+-0.01273	terribly
+-0.01273	bore
+-0.01272	- on
+-0.01270	people in
+-0.01267	's all
+-0.01265	picture
+-0.01264	manner
+-0.01264	film that
+-0.01264	old 
+-0.01262	but as
+-0.01262	girlfriend
+-0.01262	and there
+-0.01261	am a
+-0.01261	original 
+-0.01259	aspect
+-0.01258	effect
+-0.01258	not_true
+-0.01257	make it
+-0.01257	tom
+-0.01254	not_on not_the
+-0.01254	a -
+-0.01250	but not
+-0.01249	out to be
+-0.01248	well 
+-0.01248	crew
+-0.01247	mood
+-0.01243	the hell
+-0.01240	not not_so
+-0.01236	've been
+-0.01236	attractive
+-0.01235	not_ but he
+-0.01235	explanation
+-0.01233	not_about not_this
+-0.01233	not_ all
+-0.01232	constantly
+-0.01231	secret
+-0.01229	not_audience
+-0.01229	have a
+-0.01226	watched this movie
+-0.01226	throw
+-0.01225	( i
+-0.01224	review
+-0.01224	mother and
+-0.01224	thinking
+-0.01223	it just
+-0.01223	not_down
+-0.01220	not_better not_than
+-0.01220	interest
+-0.01218	content
+-0.01217	would have been
+-0.01216	painfully
+-0.01216	law
+-0.01214	who were
+-0.01213	and i think
+-0.01213	total
+-0.01211	not_them
+-0.01210	i watched this
+-0.01209	get to
+-0.01208	pacing
+-0.01208	left
+-0.01208	with no
+-0.01206	not_too
+-0.01206	minor
+-0.01205	down 
+-0.01203	yeah 
+-0.01203	he would
+-0.01200	gay
+-0.01197	released
+-0.01197	low -
+-0.01196	) and
+-0.01196	the night
+-0.01196	not_is not_not
+-0.01193	reason 
+-0.01193	supposedly
+-0.01192	not_well
+-0.01192	not_of not_a
+-0.01192	not_as not_the
+-0.01192	which was
+-0.01190	there were
+-0.01189	there is no
+-0.01186	teenage
+-0.01186	even though
+-0.01186	they just
+-0.01184	if only
+-0.01183	complete
+-0.01182	but it was
+-0.01180	laugh 
+-0.01178	tired
+-0.01177	and we
+-0.01176	" is
+-0.01176	shown
+-0.01174	beyond
+-0.01174	not_either not_
+-0.01173	interest in
+-0.01170	watching
+-0.01168	not_has
+-0.01167	only one
+-0.01164	not_for not_this
+-0.01163	not_sense not_
+-0.01163	around 
+-0.01163	everything else
+-0.01159	the special effects
+-0.01158	is going
+-0.01158	after the
+-0.01154	not_a not_lot
+-0.01154	ruined
+-0.01154	is only
+-0.01153	stay
+-0.01153	co
+-0.01150	film 's
+-0.01149	not_idea not_of
+-0.01149	attack
+-0.01149	the money
+-0.01148	decided to
+-0.01147	do n't not_even
+-0.01146	- this
+-0.01146	hour
+-0.01145	festival
+-0.01145	kinda
+-0.01142	just to
+-0.01142	was in
+-0.01141	i
+-0.01141	3
+-0.01140	point in
+-0.01140	2 
+-0.01140	not_which
+-0.01139	and by
+-0.01139	and there are
+-0.01139	like a
+-0.01139	of it
+-0.01138	of that
+-0.01137	de
+-0.01137	agent
+-0.01136	up to
+-0.01136	him and
+-0.01135	and has
+-0.01135	jack
+-0.01134	the title role
+-0.01133	a complete
+-0.01133	is no
+-0.01133	not_ there are
+-0.01132	killed
+-0.01131	was very
+-0.01127	you might
+-0.01125	theaters
+-0.01125	then there
+-0.01124	) to
+-0.01123	park
+-0.01122	sign
+-0.01119	nonsense
+-0.01118	not_ )
+-0.01117	brain
+-0.01116	want to see
+-0.01116	dies
+-0.01115	have done
+-0.01114	loose
+-0.01114	then it
+-0.01114	not_to not_make
+-0.01114	game 
+-0.01114	* *
+-0.01113	not_read
+-0.01112	cop
+-0.01111	window
+-0.01110	practically
+-0.01108	bigger
+-0.01107	maybe
+-0.01107	fit
+-0.01106	guy who
+-0.01106	lines
+-0.01106	was really
+-0.01103	is about a
+-0.01102	the actors
+-0.01101	n't not_
+-0.01100	development
+-0.01100	write
+-0.01098	movies that
+-0.01097	but this is
+-0.01097	wearing
+-0.01096	women
+-0.01093	not_'d
+-0.01089	not_seems
+-0.01088	you want
+-0.01088	really bad
+-0.01087	not_to not_see
+-0.01086	become a
+-0.01085	movie does
+-0.01083	decides to
+-0.01082	to be the
+-0.01081	we are
+-0.01079	familiar
+-0.01079	that could
+-0.01079	rating
+-0.01078	not_have not_been
+-0.01077	character 's
+-0.01076	reading
+-0.01076	not_my
+-0.01075	up a
+-0.01075	not_ do
+-0.01074	empty
+-0.01072	quiet
+-0.01072	editing
+-0.01069	finished
+-0.01067	out the
+-0.01067	- in
+-0.01067	involved in
+-0.01067	time
+-0.01067	is bad
+-0.01067	not_full
+-0.01067	ugly
+-0.01066	but with
+-0.01065	watching the
+-0.01064	it that
+-0.01061	not_ but the
+-0.01060	opportunity
+-0.01060	century
+-0.01059	with one
+-0.01059	christmas
+-0.01057	just does
+-0.01056	the early
+-0.01054	who have
+-0.01054	cast
+-0.01053	the place
+-0.01052	read
+-0.01052	early
+-0.01051	not_care
+-0.01051	b -
+-0.01050	the book
+-0.01049	this movie
+-0.01049	figured
+-0.01048	not_all not_that
+-0.01046	something that
+-0.01046	the movie was
+-0.01044	movie a
+-0.01043	not_there not_
+-0.01043	the history of
+-0.01043	not_) not_ the
+-0.01042	know not_what
+-0.01040	scenes in
+-0.01037	does n't
+-0.01036	they can
+-0.01036	originally
+-0.01035	change
+-0.01034	what happened
+-0.01033	good
+-0.01032	is on
+-0.01032	concept
+-0.01029	might be
+-0.01029	a long time
+-0.01029	get the
+-0.01027	sat
+-0.01026	most of
+-0.01026	make - up
+-0.01022	that it 's
+-0.01022	not_here not_
+-0.01021	years ago 
+-0.01020	that i was
+-0.01017	this has
+-0.01016	not_of not_this
+-0.01016	just about
+-0.01015	from a
+-0.01015	thus
+-0.01014	twist
+-0.01013	with 
+-0.01013	low budget
+-0.01012	not_with
+-0.01012	not_try
+-0.01008	not_of not_the not_movie
+-0.01007	it 's just
+-0.01006	values
+-0.01006	constant
+-0.01005	and there is
+-0.01004	thing 
+-0.01003	( not
+-0.01003	good movie 
+-0.01003	conclusion
+-0.01000	cross
+-0.00999	brian
+-0.00998	first of
+-0.00997	as they
+-0.00996	the subject
+-0.00994	not_ then
+-0.00994	filmmakers
+-0.00994	) but
+-0.00993	to show
+-0.00989	that her
+-0.00986	wondering
+-0.00986	why the
+-0.00985	i hope
+-0.00984	near
+-0.00984	this would
+-0.00983	not_come
+-0.00982	make a
+-0.00982	needed
+-0.00981	sort
+-0.00981	my life
+-0.00981	went to
+-0.00981	plain
+-0.00981	not_'ve
+-0.00981	movie )
+-0.00980	hour 
+-0.00980	first of all
+-0.00978	a high
+-0.00978	not_that not_the
+-0.00975	spoilers
+-0.00975	choice
+-0.00975	lack of
+-0.00975	this is n't
+-0.00975	given the
+-0.00975	wit
+-0.00975	not_completely
+-0.00974	some good
+-0.00972	none not_of
+-0.00971	viewers 
+-0.00970	admit
+-0.00965	acting 
+-0.00965	a certain
+-0.00962	talents
+-0.00962	how
+-0.00961	tried to
+-0.00959	not_ "
+-0.00958	it looks like
+-0.00958	cast of
+-0.00956	absurd
+-0.00956	seem to
+-0.00954	of one
+-0.00953	potential 
+-0.00953	it comes
+-0.00952	for the first
+-0.00951	not_making
+-0.00951	i remember
+-0.00949	- but
+-0.00948	they all
+-0.00948	shoot
+-0.00947	not_this not_film
+-0.00946	not_would
+-0.00945	not_is not_n't
+-0.00945	writer
+-0.00945	date 
+-0.00943	the bad
+-0.00941	cheesy
+-0.00940	not_to not_a
+-0.00940	of all 
+-0.00939	changes
+-0.00938	not_interesting
+-0.00932	not_eyes
+-0.00932	it is not
+-0.00931	semi
+-0.00930	the character
+-0.00930	about the movie
+-0.00929	camera 
+-0.00928	body
+-0.00927	plus
+-0.00926	nearly
+-0.00925	in this film
+-0.00925	not_around
+-0.00925	not_said
+-0.00925	n't not_believe
+-0.00924	if the
+-0.00924	final
+-0.00924	soul
+-0.00923	not_ the film
+-0.00923	it
+-0.00922	not_well not_
+-0.00920	not_good not_
+-0.00920	comes
+-0.00918	class
+-0.00917	only the
+-0.00915	that is 
+-0.00914	music
+-0.00913	the video
+-0.00913	results
+-0.00912	design
+-0.00912	entertainment 
+-0.00912	to what
+-0.00911	never
+-0.00911	not_ to
+-0.00911	screen
+-0.00911	eye 
+-0.00911	not_lot
+-0.00910	there are some
+-0.00909	has no
+-0.00906	listening
+-0.00903	before
+-0.00902	over 
+-0.00900	casting
+-0.00899	nasty
+-0.00897	even a
+-0.00897	have ever seen
+-0.00896	horribly
+-0.00896	and 
+-0.00895	seen 
+-0.00895	forced
+-0.00895	ready
+-0.00895	thing about
+-0.00893	lost
+-0.00892	doll
+-0.00892	creating
+-0.00891	mentioned
+-0.00891	one of the
+-0.00891	explain
+-0.00891	to play
+-0.00886	yet 
+-0.00884	not_on not_
+-0.00884	through
+-0.00883	show
+-0.00883	filmed
+-0.00882	not_great
+-0.00881	channel
+-0.00878	makes it
+-0.00877	make this
+-0.00877	the story of
+-0.00873	element
+-0.00869	directed by
+-0.00868	see the
+-0.00868	like this
+-0.00867	student
+-0.00867	think of
+-0.00867	seriously 
+-0.00866	generally
+-0.00865	to the movie
+-0.00864	like i
+-0.00863	music and
+-0.00862	sit
+-0.00862	from
+-0.00861	not_much
+-0.00861	not_in not_the
+-0.00860	about as
+-0.00860	not_that
+-0.00858	they did
+-0.00858	the love
+-0.00856	but that
+-0.00856	do n't not_want
+-0.00856	if you are
+-0.00854	and this is
+-0.00854	emotion
+-0.00853	as usual
+-0.00853	doctor
+-0.00852	you want to
+-0.00851	a huge
+-0.00850	no not_one
+-0.00850	title role
+-0.00850	1
+-0.00849	project
+-0.00849	the house
+-0.00847	tell you
+-0.00847	keep the
+-0.00847	not_and not_it
+-0.00845	add
+-0.00844	not a
+-0.00843	off the
+-0.00840	kind of
+-0.00839	the way
+-0.00838	critical
+-0.00838	" what
+-0.00837	light
+-0.00837	dialog
+-0.00835	just too
+-0.00835	) is a
+-0.00834	technical
+-0.00833	not_story
+-0.00833	co -
+-0.00832	there
+-0.00832	leads
+-0.00832	not_but not_i
+-0.00830	n't not_seem
+-0.00830	if they
+-0.00828	he 's the
+-0.00827	this is just
+-0.00827	not_ its
+-0.00827	one
+-0.00825	version 
+-0.00824	enough not_to
+-0.00824	film for
+-0.00823	to use
+-0.00823	laughing
+-0.00822	utter
+-0.00822	first time
+-0.00821	on tv
+-0.00821	suit
+-0.00819	the evil
+-0.00819	remember
+-0.00819	call
+-0.00818	girls
+-0.00815	read the
+-0.00814	for you
+-0.00814	kind
+-0.00814	not_our
+-0.00813	every time
+-0.00813	extremely
+-0.00809	must have been
+-0.00809	came
+-0.00808	would say
+-0.00807	industry
+-0.00806	do n't not_know
+-0.00805	it 's like
+-0.00805	not_ this
+-0.00804	screenplay
+-0.00804	ends up
+-0.00803	that 
+-0.00802	humans
+-0.00799	have ever
+-0.00799	not_fun
+-0.00799	be more
+-0.00798	not_ maybe
+-0.00796	pass
+-0.00794	comes to
+-0.00794	business
+-0.00792	not_problem
+-0.00792	promise
+-0.00791	not_such
+-0.00791	members
+-0.00791	witch
+-0.00789	a terrible
+-0.00789	not_as not_they
+-0.00788	a group
+-0.00787	playing
+-0.00786	sad
+-0.00785	apart
+-0.00784	not_ the only
+-0.00783	director and
+-0.00782	the dead
+-0.00781	70
+-0.00779	program
+-0.00775	fi
+-0.00775	sci
+-0.00775	place 
+-0.00774	whatever
+-0.00774	was to
+-0.00774	literally
+-0.00771	plot and
+-0.00767	any of
+-0.00767	massive
+-0.00767	faith
+-0.00766	village
+-0.00766	high
+-0.00765	giant
+-0.00765	characters in
+-0.00763	down a
+-0.00760	not_use
+-0.00760	found it
+-0.00757	dumb
+-0.00754	30
+-0.00754	it again 
+-0.00753	picked
+-0.00751	am not
+-0.00751	i am not
+-0.00751	near the
+-0.00751	it would be
+-0.00750	about this movie
+-0.00750	successful
+-0.00750	fairly
+-0.00749	not_to not_do
+-0.00749	killer
+-0.00747	footage
+-0.00744	renting
+-0.00744	not_tv
+-0.00744	can only
+-0.00743	blood and
+-0.00743	it made
+-0.00742	i felt
+-0.00741	n't not_help
+-0.00741	special
+-0.00740	movie for
+-0.00739	from an
+-0.00739	not_sense
+-0.00738	not_point
+-0.00736	is almost
+-0.00736	is more
+-0.00735	disappointment
+-0.00734	is really
+-0.00733	sleep
+-0.00733	not_ there is
+-0.00732	n't not_want
+-0.00729	i went
+-0.00728	better than the
+-0.00728	the special
+-0.00728	not_make not_it
+-0.00728	carry
+-0.00727	not_have not_a
+-0.00727	list of
+-0.00726	whom
+-0.00725	thought that
+-0.00724	not_far
+-0.00724	is set
+-0.00723	you wo
+-0.00723	you wo n't
+-0.00721	lee 
+-0.00721	and one
+-0.00721	reminded me of
+-0.00720	anti -
+-0.00720	instance
+-0.00719	or a
+-0.00719	thomas
+-0.00718	heard
+-0.00717	not_a not_movie
+-0.00717	sequence
+-0.00717	fighting
+-0.00716	not_ however 
+-0.00716	were
+-0.00715	the movie is
+-0.00715	'm sure
+-0.00715	i 'm sure
+-0.00714	filming
+-0.00714	dated
+-0.00713	me of
+-0.00712	thriller
+-0.00711	for an
+-0.00711	's only
+-0.00710	way to
+-0.00709	as for
+-0.00708	anti
+-0.00708	not_one not_of not_the
+-0.00707	not_way not_
+-0.00706	not_ well
+-0.00706	decides
+-0.00706	awesome
+-0.00706	effects are
+-0.00706	not_ like
+-0.00705	budget
+-0.00705	be the
+-0.00705	naked
+-0.00704	former
+-0.00704	by far
+-0.00703	her in
+-0.00702	i said
+-0.00701	themselves
+-0.00701	success
+-0.00701	there are
+-0.00701	not_ i 'm
+-0.00699	worked
+-0.00699	the usual
+-0.00698	part of the
+-0.00697	where a
+-0.00697	one -
+-0.00696	are so
+-0.00696	not not_in
+-0.00694	the title
+-0.00694	in the movie
+-0.00694	has been
+-0.00694	high school
+-0.00693	the audience
+-0.00689	a lot of
+-0.00689	can see
+-0.00687	not_close
+-0.00687	not_after
+-0.00687	anybody
+-0.00684	mine
+-0.00684	not_right
+-0.00684	to an
+-0.00683	shot 
+-0.00683	and his
+-0.00682	mistake
+-0.00680	away from the
+-0.00677	back to
+-0.00676	steven
+-0.00676	scenery
+-0.00676	purely
+-0.00676	where they
+-0.00675	routine
+-0.00674	example 
+-0.00673	tony
+-0.00672	released 
+-0.00671	favor
+-0.00669	not_sex
+-0.00669	not_believe
+-0.00667	throughout the
+-0.00667	you know
+-0.00667	was going to
+-0.00666	" that
+-0.00666	reason
+-0.00664	's like
+-0.00663	a comedy
+-0.00663	not_just
+-0.00663	n't not_care
+-0.00662	as though
+-0.00661	a friend
+-0.00658	the film 's
+-0.00658	irish
+-0.00657	inspired
+-0.00657	the actress
+-0.00657	the part
+-0.00657	did n't not_have
+-0.00656	meets
+-0.00655	jokes are
+-0.00654	not_expect
+-0.00654	man 
+-0.00654	soldiers
+-0.00654	beloved
+-0.00653	viewers
+-0.00653	british
+-0.00653	double
+-0.00652	say 
+-0.00652	was one
+-0.00652	not_every
+-0.00651	later 
+-0.00651	not_never
+-0.00651	names
+-0.00650	may not
+-0.00650	accent
+-0.00650	it were
+-0.00649	other movies
+-0.00649	one scene
+-0.00647	used
+-0.00646	not_always
+-0.00645	other hand
+-0.00645	the other hand
+-0.00645	as she
+-0.00644	that a
+-0.00644	road
+-0.00643	spoiler
+-0.00643	fair
+-0.00642	black
+-0.00642	for you 
+-0.00642	least 
+-0.00641	sister
+-0.00641	talking about
+-0.00641	- a
+-0.00640	okay 
+-0.00639	numbers
+-0.00639	the girl
+-0.00636	the opening
+-0.00635	seemingly
+-0.00635	she has
+-0.00634	walk
+-0.00633	wife and
+-0.00632	i found the
+-0.00632	way through
+-0.00632	a total
+-0.00631	was still
+-0.00630	the hero
+-0.00630	should not
+-0.00630	not_looks
+-0.00630	through 
+-0.00630	and do
+-0.00629	come to
+-0.00628	not_say
+-0.00627	this one 
+-0.00625	and '
+-0.00623	then i
+-0.00623	not_a not_great
+-0.00622	everything
+-0.00621	disaster
+-0.00619	they did n't
+-0.00618	there are a
+-0.00618	have 
+-0.00617	ironically
+-0.00615	officer
+-0.00615	setting
+-0.00615	acts
+-0.00615	was a
+-0.00613	they should
+-0.00612	energy
+-0.00609	the direction
+-0.00608	writing 
+-0.00607	with its
+-0.00607	that s
+-0.00606	not_see not_it
+-0.00605	particular
+-0.00605	but they
+-0.00605	likes
+-0.00605	nowhere
+-0.00603	director
+-0.00602	not not_very
+-0.00602	not_worse
+-0.00601	not_that not_he
+-0.00601	no not_idea
+-0.00601	points
+-0.00600	place in
+-0.00599	it the
+-0.00597	appeal
+-0.00597	it will
+-0.00597	goes
+-0.00596	not_few
+-0.00594	out of a
+-0.00594	actress 
+-0.00594	seven
+-0.00594	revenge
+-0.00593	good 
+-0.00592	part of
+-0.00592	not_them not_
+-0.00591	not_i not_was
+-0.00591	again 
+-0.00590	satire
+-0.00590	- fi
+-0.00590	sci -
+-0.00590	sci - fi
+-0.00588	begin to
+-0.00588	damn
+-0.00583	zombie
+-0.00583	leaving
+-0.00582	pity
+-0.00579	dying
+-0.00579	to "
+-0.00578	not_more not_than
+-0.00577	not_each
+-0.00577	not_the not_movie not_
+-0.00573	worst movie
+-0.00572	post
+-0.00572	moments 
+-0.00571	production 
+-0.00571	to make the
+-0.00570	island
+-0.00569	the star
+-0.00569	the dvd
+-0.00567	hill
+-0.00566	place
+-0.00566	not_seeing
+-0.00565	they could
+-0.00564	science
+-0.00564	not_she not_is
+-0.00561	a movie that
+-0.00561	even if
+-0.00561	can make
+-0.00560	by the way
+-0.00557	though the
+-0.00557	flesh
+-0.00556	was too
+-0.00555	free
+-0.00555	and gore
+-0.00554	but most
+-0.00554	dramatic
+-0.00554	is that it
+-0.00554	quite a
+-0.00554	forced to
+-0.00553	come up
+-0.00553	( with
+-0.00552	is much
+-0.00552	her mother
+-0.00551	the characters 
+-0.00551	as his
+-0.00550	around
+-0.00550	not_real
+-0.00550	psychological
+-0.00549	was so
+-0.00549	weak
+-0.00548	music is
+-0.00548	previous
+-0.00548	not_against
+-0.00546	include
+-0.00546	not_her
+-0.00541	is n't
+-0.00540	material
+-0.00538	battle
+-0.00537	the little
+-0.00534	earth
+-0.00533	built
+-0.00533	seem to be
+-0.00533	bland
+-0.00532	religious
+-0.00531	not_thought
+-0.00529	the film 
+-0.00529	i did n't
+-0.00529	scenes are
+-0.00529	not not_as
+-0.00527	not_ my
+-0.00527	short 
+-0.00526	because she
+-0.00526	to sit
+-0.00526	seemed to
+-0.00525	are some
+-0.00525	movies i
+-0.00525	a good
+-0.00524	not_all not_the
+-0.00524	what was
+-0.00523	and no
+-0.00523	respect
+-0.00522	through this
+-0.00521	on and on
+-0.00519	pain
+-0.00517	not_to not_get
+-0.00517	do the
+-0.00514	a better
+-0.00513	" for
+-0.00513	the killer
+-0.00508	i could n't
+-0.00507	off of
+-0.00507	a good movie
+-0.00507	character development
+-0.00505	we do
+-0.00503	involving
+-0.00503	when it comes
+-0.00501	' and
+-0.00499	hold
+-0.00498	begin
+-0.00497	" it
+-0.00495	state
+-0.00495	a scene
+-0.00494	sounds
+-0.00494	experience 
+-0.00493	for her
+-0.00491	not_go
+-0.00491	not_ no
+-0.00491	not_story not_
+-0.00490	watching it
+-0.00490	during
+-0.00490	music 
+-0.00490	great cast
+-0.00490	away from
+-0.00489	- in -
+-0.00489	weapon
+-0.00488	direct
+-0.00488	when the
+-0.00487	to think
+-0.00486	alien
+-0.00486	long time 
+-0.00486	entire movie
+-0.00485	evil 
+-0.00485	little more
+-0.00485	made in
+-0.00485	not_is not_that
+-0.00484	the credits
+-0.00478	not_genre
+-0.00478	gratuitous
+-0.00478	scene in the
+-0.00477	the history
+-0.00477	not_ well 
+-0.00475	he could
+-0.00474	because they
+-0.00474	movie the
+-0.00473	from this
+-0.00472	not_the not_first
+-0.00472	i only
+-0.00471	the screenplay
+-0.00469	reminded me
+-0.00469	one and
+-0.00469	you just
+-0.00468	paid
+-0.00468	full of
+-0.00466	narrative
+-0.00466	screenplay 
+-0.00465	not_half
+-0.00465	amount of
+-0.00465	has some
+-0.00464	this point
+-0.00463	a poor
+-0.00461	see a
+-0.00460	out a
+-0.00459	to write
+-0.00459	pretty good
+-0.00458	1 
+-0.00458	do n't not_think
+-0.00457	local
+-0.00457	soft
+-0.00457	by this
+-0.00456	not_must
+-0.00456	not_ the movie
+-0.00455	equally
+-0.00455	to
+-0.00455	movie does n't
+-0.00454	ghost
+-0.00454	desperately
+-0.00454	stuck
+-0.00454	of the cast
+-0.00453	not_work not_
+-0.00452	playing a
+-0.00451	animated
+-0.00451	to bring
+-0.00451	costumes
+-0.00450	it got
+-0.00450	on in
+-0.00449	the right
+-0.00449	whole
+-0.00448	but i do
+-0.00446	conclusion 
+-0.00445	what the
+-0.00445	everyone else
+-0.00443	as in
+-0.00442	not_ because
+-0.00442	sequence 
+-0.00441	because
+-0.00441	the filmmakers
+-0.00441	plot is
+-0.00439	relationship 
+-0.00439	tried
+-0.00438	imagine
+-0.00438	series 
+-0.00436	friend
+-0.00436	even in
+-0.00436	ends
+-0.00436	jokes
+-0.00435	lot 
+-0.00434	indie
+-0.00433	the film is
+-0.00431	affair
+-0.00431	but that 's
+-0.00431	although it
+-0.00430	i did
+-0.00429	by a
+-0.00429	act
+-0.00428	where it
+-0.00428	happen 
+-0.00427	the city
+-0.00427	of those films
+-0.00427	those films
+-0.00427	song
+-0.00426	single
+-0.00425	top 
+-0.00424	to not
+-0.00424	trash
+-0.00423	a long
+-0.00418	for its
+-0.00416	of movies
+-0.00415	" do
+-0.00415	ever made 
+-0.00415	chase
+-0.00411	think 
+-0.00410	the kids
+-0.00409	faces
+-0.00409	introduction
+-0.00406	to that
+-0.00405	zombies
+-0.00405	slowly
+-0.00404	a fan of
+-0.00404	i watched it
+-0.00403	films like
+-0.00402	for a film
+-0.00401	not_a not_good
+-0.00400	provides
+-0.00399	felt like
+-0.00398	the name
+-0.00397	heavy
+-0.00396	he just
+-0.00394	we get
+-0.00394	no one
+-0.00391	going on 
+-0.00391	more like
+-0.00391	a bit
+-0.00390	james
+-0.00388	he had
+-0.00388	dead 
+-0.00387	not_kind
+-0.00387	not_to not_this
+-0.00386	has to be
+-0.00385	as far
+-0.00384	idea of
+-0.00383	not_ it 's
+-0.00383	not_acting
+-0.00382	the basic
+-0.00381	hair 
+-0.00380	a film that
+-0.00380	everything is
+-0.00379	star
+-0.00379	handsome
+-0.00377	question
+-0.00376	space
+-0.00376	and this
+-0.00374	i knew
+-0.00374	just for
+-0.00374	a group of
+-0.00374	group of
+-0.00374	what i
+-0.00373	line
+-0.00372	not_different
+-0.00370	happened
+-0.00369	n't not_want not_to
+-0.00368	subject
+-0.00367	military
+-0.00366	ago 
+-0.00365	player
+-0.00365	of being
+-0.00364	'd
+-0.00364	most of the
+-0.00364	goes on
+-0.00363	movie i 've
+-0.00362	along
+-0.00360	presented
+-0.00360	i have ever
+-0.00359	ending is
+-0.00359	( and
+-0.00359	added
+-0.00358	genius
+-0.00357	in 
+-0.00357	alan
+-0.00356	" )
+-0.00355	not_ and the
+-0.00354	it 's all
+-0.00352	on the other
+-0.00351	parent
+-0.00351	the music
+-0.00350	not_except
+-0.00350	it for
+-0.00348	suffers
+-0.00348	not_do
+-0.00347	not_of not_them
+-0.00347	time to
+-0.00347	despite the
+-0.00346	in this
+-0.00346	of life
+-0.00345	* * *
+-0.00344	not_not
+-0.00344	club
+-0.00343	ultimately
+-0.00342	a whole
+-0.00342	exploitation
+-0.00342	on the
+-0.00341	states
+-0.00341	name
+-0.00341	not_they not_are
+-0.00340	and what
+-0.00340	all -
+-0.00340	fall
+-0.00339	strangely
+-0.00339	're
+-0.00338	for being
+-0.00338	they go
+-0.00338	liners
+-0.00338	becomes a
+-0.00337	10
+-0.00337	not_the
+-0.00337	average
+-0.00337	budget 
+-0.00335	find a
+-0.00335	see what
+-0.00334	hate
+-0.00334	thing i
+-0.00332	do with
+-0.00330	age
+-0.00330	here 's
+-0.00330	not_that not_they
+-0.00330	title
+-0.00330	who plays
+-0.00330	not_their
+-0.00330	were in
+-0.00326	well -
+-0.00326	friend 
+-0.00325	be one
+-0.00324	i would have
+-0.00323	rape
+-0.00323	at one
+-0.00322	him with
+-0.00321	not_seem
+-0.00321	film is
+-0.00320	indeed 
+-0.00320	independent
+-0.00320	amount
+-0.00319	when a
+-0.00318	you would
+-0.00317	i saw the
+-0.00317	chris
+-0.00316	majority
+-0.00316	have an
+-0.00316	not_when
+-0.00316	once again
+-0.00315	they would
+-0.00315	are really
+-0.00314	look at
+-0.00313	is being
+-0.00313	a bit of
+-0.00312	must be
+-0.00312	and only
+-0.00311	on and
+-0.00310	holding
+-0.00310	but he
+-0.00310	in for
+-0.00310	create
+-0.00310	came out
+-0.00309	do a
+-0.00308	mission
+-0.00308	he gets
+-0.00307	arts
+-0.00307	or so
+-0.00306	plan
+-0.00305	those of
+-0.00305	provide
+-0.00303	go 
+-0.00302	n't not_see
+-0.00295	you that
+-0.00295	the way 
+-0.00294	mixed
+-0.00294	watching this movie
+-0.00294	gets a
+-0.00294	to it 
+-0.00293	time in
+-0.00291	for those
+-0.00291	the thing
+-0.00291	church
+-0.00289	but we
+-0.00289	traditional
+-0.00288	adaptation of
+-0.00288	beat
+-0.00288	means
+-0.00287	ever seen
+-0.00285	is pretty
+-0.00284	not_ although
+-0.00284	as an
+-0.00283	( "
+-0.00283	not_also
+-0.00282	indeed
+-0.00281	ed
+-0.00280	attempt at
+-0.00280	filmmaker
+-0.00279	following
+-0.00279	like an
+-0.00278	not_the not_film
+-0.00277	that people
+-0.00277	at her
+-0.00276	that we
+-0.00276	beautiful 
+-0.00276	" it 's
+-0.00276	generation
+-0.00275	lies
+-0.00273	said that
+-0.00271	to become
+-0.00271	dressed
+-0.00271	not_fact
+-0.00270	" this
+-0.00270	explained
+-0.00267	leave
+-0.00267	chance
+-0.00267	seems to
+-0.00267	suspense 
+-0.00266	stephen
+-0.00265	line 
+-0.00265	children
+-0.00263	the fact that
+-0.00263	immediately
+-0.00263	not_doing
+-0.00263	is something
+-0.00262	film to
+-0.00261	to save
+-0.00261	film -
+-0.00259	held
+-0.00259	not_'re
+-0.00259	not_sure
+-0.00258	but also
+-0.00257	at his
+-0.00257	directing 
+-0.00256	atmosphere
+-0.00256	villain
+-0.00255	scenes that
+-0.00255	much 
+-0.00254	find
+-0.00254	quality of
+-0.00253	did he
+-0.00253	pull
+-0.00253	found
+-0.00252	it 's so
+-0.00252	then this
+-0.00252	behind
+-0.00252	'm a
+-0.00252	i 'm a
+-0.00251	missing
+-0.00250	so i
+-0.00249	such an
+-0.00248	novel
+-0.00248	shots of
+-0.00248	could do
+-0.00247	with their
+-0.00247	start 
+-0.00245	atmosphere 
+-0.00245	kick
+-0.00245	people can
+-0.00244	for that
+-0.00244	ever 
+-0.00244	in and
+-0.00242	husband
+-0.00242	put
+-0.00241	force
+-0.00240	realize that
+-0.00239	's supposed
+-0.00239	's supposed to
+-0.00239	can see why
+-0.00239	but this movie
+-0.00238	that will
+-0.00237	against the
+-0.00236	logic
+-0.00236	inside
+-0.00235	bizarre
+-0.00235	're all
+-0.00234	not_film not_is
+-0.00234	are no
+-0.00234	not_was
+-0.00234	was made
+-0.00232	other than
+-0.00231	the main
+-0.00231	n't not_know
+-0.00230	kids 
+-0.00229	no
+-0.00228	love for
+-0.00228	not_her not_
+-0.00228	grace
+-0.00227	the story is
+-0.00226	title 
+-0.00225	not_about not_the
+-0.00223	community
+-0.00222	look at the
+-0.00222	them 
+-0.00221	the good
+-0.00220	cinema 
+-0.00220	it in
+-0.00219	to the film
+-0.00218	better than
+-0.00217	and over
+-0.00217	film in
+-0.00216	herself
+-0.00215	'm not not_sure
+-0.00215	and with
+-0.00213	proves
+-0.00212	made for
+-0.00211	) is
+-0.00211	is absolutely
+-0.00210	not_ how
+-0.00207	post -
+-0.00207	the jokes
+-0.00205	unfortunate
+-0.00205	although
+-0.00205	off to
+-0.00205	very little
+-0.00204	young
+-0.00204	will probably
+-0.00204	have seen
+-0.00204	depth
+-0.00204	mark
+-0.00204	a nice
+-0.00204	few years
+-0.00203	own 
+-0.00201	to see the
+-0.00199	away 
+-0.00198	not_help
+-0.00197	after a
+-0.00197	because he
+-0.00197	tough
+-0.00196	the plot is
+-0.00196	's most
+-0.00195	normal
+-0.00195	adaptation
+-0.00195	to say 
+-0.00194	time and
+-0.00194	in some
+-0.00193	over
+-0.00193	then 
+-0.00193	bad guy
+-0.00192	that there is
+-0.00191	these are
+-0.00191	turned out
+-0.00191	due to
+-0.00190	i wish
+-0.00190	like it was
+-0.00189	of 10 
+-0.00187	in short
+-0.00186	not_/
+-0.00185	way 
+-0.00185	a character
+-0.00184	not_to not_say
+-0.00183	bloody
+-0.00183	why did
+-0.00183	the trailer
+-0.00182	i say
+-0.00181	hand 
+-0.00179	not_have
+-0.00179	the main character
+-0.00178	players
+-0.00177	flashbacks
+-0.00177	for her 
+-0.00176	third
+-0.00176	managed
+-0.00176	managed to
+-0.00175	out there
+-0.00173	afraid
+-0.00173	impression
+-0.00173	see this movie
+-0.00173	edward
+-0.00173	for one
+-0.00173	thing is
+-0.00172	aware
+-0.00172	we 've
+-0.00171	long time
+-0.00171	who can
+-0.00167	good movie
+-0.00167	not_give
+-0.00167	danny
+-0.00165	disney
+-0.00164	like me
+-0.00164	since i
+-0.00164	entertaining 
+-0.00162	are the
+-0.00161	sub -
+-0.00159	the first time
+-0.00158	seen it
+-0.00158	's been
+-0.00157	combination
+-0.00156	the screen
+-0.00156	's hard
+-0.00156	middle
+-0.00155	not_going not_on
+-0.00155	but is
+-0.00155	believe that
+-0.00155	( which
+-0.00154	ass
+-0.00154	basic
+-0.00153	edited
+-0.00153	not_ this is
+-0.00152	killing
+-0.00151	than the
+-0.00150	similar to
+-0.00150	animals
+-0.00147	watch this movie
+-0.00143	action
+-0.00142	in all
+-0.00142	one could
+-0.00140	for "
+-0.00140	- i
+-0.00138	) the
+-0.00137	the idea
+-0.00136	full
+-0.00136	had 
+-0.00136	not_those
+-0.00135	legend
+-0.00134	has all
+-0.00131	it becomes
+-0.00130	known
+-0.00130	feeling
+-0.00129	moved
+-0.00129	and are
+-0.00128	point
+-0.00128	younger
+-0.00127	as far as
+-0.00127	you see
+-0.00124	up with
+-0.00123	common
+-0.00122	accents
+-0.00120	not_does not_n't
+-0.00119	and he
+-0.00119	the acting 
+-0.00118	after all
+-0.00118	that have
+-0.00118	not_plot
+-0.00118	elements
+-0.00118	not_ at
+-0.00117	movie is
+-0.00117	etc
+-0.00114	visual
+-0.00114	going to
+-0.00113	the man
+-0.00113	with my
+-0.00113	the fight
+-0.00112	society 
+-0.00111	i got
+-0.00111	along the way
+-0.00110	not_little
+-0.00109	is that the
+-0.00108	not_to not_give
+-0.00105	title role 
+-0.00104	i ca n't
+-0.00104	i would
+-0.00102	meant to
+-0.00102	on its
+-0.00101	not_have not_the
+-0.00101	not_name
+-0.00101	loss
+-0.00101	's what
+-0.00100	answer
+-0.00100	that one
+-0.00100	out in
+-0.00100	and on
+-0.00099	moment 
+-0.00098	highlight
+-0.00095	the ending is
+-0.00095	quickly
+-0.00094	not_with not_a
+-0.00094	not_ the "
+-0.00093	things that
+-0.00093	his role
+-0.00093	note
+-0.00093	not_ but i
+-0.00092	memories
+-0.00092	it was so
+-0.00091	personally
+-0.00090	honest
+-0.00089	in "
+-0.00088	brought
+-0.00088	to the point
+-0.00088	desire
+-0.00086	individual
+-0.00086	a pretty
+-0.00085	like it
+-0.00085	not_because
+-0.00084	and then
+-0.00083	no 
+-0.00083	any
+-0.00083	drug
+-0.00082	these people
+-0.00081	the real
+-0.00080	not_do not_n't
+-0.00080	not_very
+-0.00080	not_the not_director
+-0.00079	not_you
+-0.00079	not not_one
+-0.00079	r
+-0.00078	like this 
+-0.00077	supporting cast
+-0.00076	extreme
+-0.00076	students
+-0.00076	the idea of
+-0.00074	depressing
+-0.00074	guy 
+-0.00072	to have been
+-0.00071	tell
+-0.00070	candy
+-0.00069	being
+-0.00069	if he
+-0.00068	of film
+-0.00067	apparent
+-0.00066	this and
+-0.00065	the death
+-0.00064	amongst
+-0.00064	opens
+-0.00063	for example
+-0.00063	normally
+-0.00063	effort
+-0.00063	mysterious
+-0.00062	cinematography
+-0.00061	we saw
+-0.00060	are 
+-0.00059	crying
+-0.00059	but after
+-0.00058	really was
+-0.00057	that i
+-0.00057	in particular
+-0.00055	achieve
+-0.00054	blow
+-0.00053	nightmare
+-0.00052	being the
+-0.00052	ask
+-0.00052	right
+-0.00052	very well 
+-0.00050	not_the not_"
+-0.00050	of them
+-0.00049	get
+-0.00048	and did
+-0.00048	to have a
+-0.00048	comedy 
+-0.00048	is my
+-0.00048	for some
+-0.00047	voice
+-0.00046	to life 
+-0.00046	during the
+-0.00045	his life
+-0.00045	even more
+-0.00045	get it
+-0.00044	's not not_a
+-0.00044	not_world
+-0.00044	not_enough 
+-0.00044	is basically
+-0.00044	not_in not_his
+-0.00043	east
+-0.00041	fact 
+-0.00041	somewhat
+-0.00041	saw a
+-0.00040	not_look
+-0.00039	it could
+-0.00038	some kind
+-0.00038	some kind of
+-0.00037	i understand
+-0.00036	it again
+-0.00035	the heart
+-0.00034	building
+-0.00034	not_comedy
+-0.00033	best of
+-0.00032	rest of
+-0.00032	the rest of
+-0.00032	not_another
+-0.00031	trouble
+-0.00030	she was
+-0.00030	part 
+-0.00030	become
+-0.00030	fully
+-0.00030	laughed
+-0.00029	seconds
+-0.00029	not_you not_'re
+-0.00028	merely
+-0.00028	on 
+-0.00026	wanting
+-0.00024	hilarious 
+-0.00023	language
+-0.00022	under the
+-0.00022	it does
+-0.00021	of what
+-0.00021	did the
+-0.00020	to 
+-0.00020	this film 
+-0.00020	you feel
+-0.00019	sense of
+-0.00019	clear
+-0.00017	dark
+-0.00017	toward
+-0.00016	i do not
+-0.00016	not_before
+-0.00015	ever made
+-0.00015	i was a
+-0.00015	of a movie
+-0.00013	etc 
+-0.00013	much of the
+-0.00013	role 
+-0.00013	not_reason
+-0.00010	a fan
+-0.00010	not_ i do
+-0.00009	is a lot
+-0.00009	san
+-0.00008	slapstick
+-0.00006	the top 
+-0.00005	go on
+-0.00005	nick
+-0.00005	chance to
+-0.00003	we have
+-0.00003	reminded
+-0.00003	half -
+-0.00003	plane
+-0.00001	but it
+-0.00001	take the
+-0.00001	the world 
+0.00000	not_having
+0.00000	emotions
+0.00001	the year
+0.00001	system
+0.00001	wild
+0.00003	version of
+0.00004	cinematic
+0.00004	also has
+0.00004	pilot
+0.00005	it 
+0.00005	frame
+0.00007	for it 
+0.00008	's hard to
+0.00008	game
+0.00008	to watch it
+0.00008	many times
+0.00009	spirit
+0.00011	around the
+0.00013	hope that
+0.00014	) as
+0.00016	stuff 
+0.00016	taste
+0.00017	not_night
+0.00017	know not_
+0.00018	and can
+0.00018	lee
+0.00018	seems to have
+0.00018	the music is
+0.00021	himself 
+0.00021	but she
+0.00022	delivered
+0.00022	lots
+0.00022	lots of
+0.00022	granted
+0.00023	aspects
+0.00023	ending 
+0.00023	if this
+0.00023	not_take
+0.00024	to those
+0.00025	the film has
+0.00025	and its
+0.00026	director 's
+0.00027	driven
+0.00028	scenes of
+0.00028	but for
+0.00028	to me 
+0.00029	either 
+0.00030	the start
+0.00030	and how
+0.00031	not_trying not_to
+0.00031	not_ these
+0.00031	wall
+0.00033	scenes 
+0.00033	speaking
+0.00037	ever seen 
+0.00037	the premise
+0.00037	aside from
+0.00038	producer
+0.00039	not not_sure
+0.00039	mix
+0.00040	not not_
+0.00041	not_they
+0.00041	meet
+0.00041	now
+0.00042	decade
+0.00042	n't not_really
+0.00042	far as
+0.00043	turning
+0.00043	are a
+0.00044	that seems
+0.00044	judge
+0.00045	for my
+0.00045	ending
+0.00045	movie just
+0.00046	not_like not_it
+0.00047	that really
+0.00048	rating 
+0.00049	the film and
+0.00050	directing
+0.00050	trip
+0.00051	anger
+0.00051	a perfect
+0.00052	her own
+0.00053	purpose
+0.00054	girl 
+0.00054	direction
+0.00054	nature of
+0.00054	well done 
+0.00054	not_girl
+0.00055	two of
+0.00055	not_work
+0.00057	fact that
+0.00060	her husband
+0.00060	in the past
+0.00063	not_ his
+0.00063	80 's
+0.00064	at the beginning
+0.00064	not_last
+0.00064	through a
+0.00064	a rather
+0.00064	times 
+0.00064	choices
+0.00064	also 
+0.00065	the tv
+0.00065	words 
+0.00066	wait
+0.00067	about this film
+0.00069	not_that not_you
+0.00069	is the only
+0.00069	word 
+0.00070	at times 
+0.00071	pieces
+0.00072	not_stop
+0.00072	not_ they
+0.00072	portray
+0.00073	not_old
+0.00074	fortunately
+0.00074	screaming
+0.00074	before 
+0.00075	not_ the plot
+0.00075	responsible
+0.00076	one of those
+0.00077	not_of not_his
+0.00078	's about
+0.00078	abandoned
+0.00079	without a
+0.00079	anthony
+0.00081	but a
+0.00081	should be
+0.00082	not_been
+0.00083	son 
+0.00083	adults
+0.00083	audience 
+0.00084	credit
+0.00085	movie in
+0.00085	it to
+0.00086	the movie that
+0.00086	but still
+0.00087	movie at
+0.00087	documentary
+0.00088	story line
+0.00089	of humor
+0.00091	meanwhile
+0.00091	regular
+0.00092	buy
+0.00093	it 's hard
+0.00094	dry
+0.00094	usually
+0.00094	in all 
+0.00095	is not not_a
+0.00096	's why
+0.00097	twisted
+0.00097	on the screen
+0.00098	sub
+0.00098	lines 
+0.00099	page
+0.00099	not_were
+0.00100	to stay
+0.00101	multi
+0.00101	went
+0.00103	earlier
+0.00103	and love
+0.00104	score 
+0.00104	when he
+0.00105	" or
+0.00105	sword
+0.00106	stars
+0.00107	say that i
+0.00107	to give
+0.00107	not_actors
+0.00108	's so
+0.00108	from beginning
+0.00108	from beginning to
+0.00109	the past
+0.00109	friends and
+0.00109	mini
+0.00109	along the
+0.00110	the other
+0.00111	is the most
+0.00111	he never
+0.00114	not_viewer
+0.00114	wanted to see
+0.00115	leading
+0.00116	for his
+0.00116	it also
+0.00116	not_a not_bad
+0.00119	feel the
+0.00119	alive
+0.00123	ability
+0.00123	somewhere
+0.00124	could not
+0.00124	race
+0.00125	not_and not_i
+0.00125	appears
+0.00126	perhaps
+0.00128	the time 
+0.00128	and while
+0.00128	commercial
+0.00128	like to
+0.00128	was one of
+0.00129	followed
+0.00129	saying
+0.00130	series of
+0.00131	this to
+0.00131	loud
+0.00131	- making
+0.00131	aside
+0.00133	dialog 
+0.00134	were n't
+0.00135	get a
+0.00135	my life 
+0.00136	shocking
+0.00138	michael
+0.00138	spent
+0.00139	and so
+0.00139	movie -
+0.00140	's very
+0.00141	bear
+0.00141	on it
+0.00141	not_trying
+0.00142	humor
+0.00143	not_going not_to
+0.00144	which he
+0.00144	car
+0.00145	showing
+0.00145	forgotten
+0.00145	enjoyable 
+0.00145	filled
+0.00146	performances from
+0.00146	and more
+0.00146	you like
+0.00146	myself 
+0.00148	about a
+0.00148	him out
+0.00148	for it
+0.00150	films
+0.00150	create a
+0.00153	how he
+0.00153	key
+0.00154	in the
+0.00155	process
+0.00156	stunning
+0.00156	mary
+0.00156	had the
+0.00157	television
+0.00157	awkward
+0.00157	ahead
+0.00158	to them
+0.00158	give the
+0.00159	allows
+0.00160	happening
+0.00160	all time 
+0.00161	be one of
+0.00162	release
+0.00163	extra
+0.00163	turns out
+0.00163	but i was
+0.00164	not_just not_a
+0.00166	not_it not_is
+0.00166	on "
+0.00166	dangerous
+0.00166	in another
+0.00167	n't not_say
+0.00167	not_--
+0.00167	winning
+0.00168	captured
+0.00168	6
+0.00170	taken
+0.00170	is another
+0.00172	how it
+0.00172	not_in not_a
+0.00173	child
+0.00173	not_again
+0.00173	of all time
+0.00173	children 
+0.00173	six
+0.00174	rated
+0.00174	make the
+0.00174	fans of
+0.00175	utterly
+0.00175	but it 's
+0.00175	it was n't
+0.00175	that in
+0.00175	before the
+0.00176	see why
+0.00176	- to
+0.00177	man 's
+0.00177	genre 
+0.00177	so they
+0.00178	talking
+0.00179	not_film not_
+0.00179	not_totally
+0.00179	hands
+0.00179	not_good
+0.00181	what they
+0.00181	very much
+0.00181	said 
+0.00184	20
+0.00184	because of the
+0.00185	years 
+0.00187	in that
+0.00187	difficult to
+0.00188	charlie
+0.00188	not_people not_
+0.00190	not_so
+0.00191	focus
+0.00192	not_by not_the
+0.00194	2
+0.00195	worthy
+0.00195	a while
+0.00196	i wanted
+0.00196	i wanted to
+0.00196	lesson
+0.00196	do it
+0.00196	naturally
+0.00196	master
+0.00197	that 's what
+0.00197	should n't
+0.00198	fun to watch
+0.00198	years later
+0.00202	actors and
+0.00202	award
+0.00203	but if you
+0.00204	and never
+0.00204	not_the not_most
+0.00205	word
+0.00205	not_him
+0.00207	yet
+0.00207	agree
+0.00209	united
+0.00211	that the
+0.00212	you must
+0.00212	mostly
+0.00213	high -
+0.00214	and it was
+0.00214	audiences
+0.00214	are n't
+0.00216	i just
+0.00216	not_able
+0.00216	not_able not_to
+0.00217	such as
+0.00217	" as
+0.00218	the screen 
+0.00219	not_much not_of
+0.00219	- to -
+0.00220	relationship
+0.00220	what makes
+0.00221	go to
+0.00222	train
+0.00222	and there 's
+0.00223	a young
+0.00223	's an
+0.00223	the films
+0.00225	the casting
+0.00225	plenty
+0.00225	plenty of
+0.00225	there was no
+0.00226	a "
+0.00226	became
+0.00227	5
+0.00228	soon
+0.00228	not_seriously
+0.00229	room 
+0.00229	horror film
+0.00229	support
+0.00230	off 
+0.00230	though i
+0.00231	at the time
+0.00232	cat
+0.00232	succeeds
+0.00232	not_this not_is
+0.00233	to make it
+0.00234	london
+0.00234	yes 
+0.00235	actually 
+0.00235	ms
+0.00235	of love
+0.00235	these days
+0.00235	allen
+0.00236	people are
+0.00237	jerry
+0.00238	starting
+0.00238	i ca
+0.00240	wars
+0.00240	was pretty
+0.00243	' 
+0.00243	in the film
+0.00243	lighting
+0.00244	of other
+0.00245	not_seem not_to
+0.00245	not_big
+0.00245	scene 
+0.00245	words
+0.00246	come out
+0.00246	could be
+0.00248	found the
+0.00248	not_years
+0.00248	it can
+0.00249	got
+0.00250	safe
+0.00250	the humor
+0.00251	one 's
+0.00251	warning
+0.00252	not_new
+0.00252	are all
+0.00252	never seen
+0.00253	telling
+0.00254	movie with
+0.00254	the events
+0.00254	notice
+0.00255	hidden
+0.00255	the biggest
+0.00255	make me
+0.00255	the previous
+0.00256	starring
+0.00257	not_keep
+0.00257	then you
+0.00257	audience
+0.00257	popular
+0.00258	not_part
+0.00259	not_up
+0.00259	company
+0.00259	it was
+0.00260	besides
+0.00260	west
+0.00261	son
+0.00261	created
+0.00262	to see a
+0.00262	to a
+0.00263	and when
+0.00263	i can see
+0.00263	was his
+0.00263	lover
+0.00264	acting and
+0.00264	movies like
+0.00265	that were
+0.00265	made 
+0.00265	all i
+0.00266	it was the
+0.00268	were very
+0.00268	executed
+0.00269	yourself
+0.00270	not_like not_the
+0.00270	to watch this
+0.00270	the middle
+0.00271	scott
+0.00271	eat
+0.00271	a giant
+0.00272	not_though
+0.00273	movie that
+0.00273	and had
+0.00276	and acting
+0.00276	charles
+0.00277	n't not_know what
+0.00277	gary
+0.00278	history 
+0.00278	the old
+0.00278	not_ a good
+0.00278	should have
+0.00278	not_less
+0.00279	lord
+0.00279	( at
+0.00280	by the time
+0.00281	no not_
+0.00282	not_for not_the
+0.00282	to their
+0.00282	jump
+0.00283	to her
+0.00284	of them 
+0.00285	know not_that
+0.00285	finish
+0.00285	network
+0.00286	not_scenes
+0.00287	if you have
+0.00287	to see how
+0.00287	of characters
+0.00289	80
+0.00289	although i
+0.00290	and a
+0.00290	jane
+0.00290	serial
+0.00290	a more
+0.00290	result
+0.00291	as soon
+0.00291	as soon as
+0.00291	soon as
+0.00291	dozen
+0.00291	film and
+0.00292	is a good
+0.00293	find the
+0.00293	not_to not_take
+0.00293	and to
+0.00293	( like
+0.00295	- like
+0.00296	this as
+0.00296	humor 
+0.00298	missed
+0.00299	of a film
+0.00300	the future
+0.00300	a chance
+0.00300	suddenly
+0.00301	as to
+0.00301	shallow
+0.00302	due
+0.00302	men 
+0.00302	as good
+0.00305	humanity
+0.00305	we were
+0.00306	of some
+0.00306	does the
+0.00306	silent
+0.00306	according
+0.00306	according to
+0.00307	romance
+0.00307	when they
+0.00308	he did
+0.00308	season
+0.00310	saw it
+0.00310	in love with
+0.00311	not_first
+0.00312	though
+0.00312	finding
+0.00313	of any
+0.00313	the '
+0.00314	hey 
+0.00314	hits
+0.00316	" of
+0.00316	viewer
+0.00317	bit of
+0.00317	effective
+0.00318	motion picture
+0.00319	you may
+0.00320	it had
+0.00320	flicks
+0.00321	born
+0.00321	my own
+0.00324	pretty much
+0.00324	about 
+0.00325	not_notice
+0.00325	1 )
+0.00325	world 
+0.00326	how much
+0.00327	like 
+0.00328	cast is
+0.00328	on -
+0.00329	and of course
+0.00329	asked
+0.00331	the late
+0.00331	to like
+0.00331	mom
+0.00331	up on
+0.00332	event
+0.00332	credits
+0.00332	but if
+0.00333	an interesting
+0.00334	so -
+0.00336	turn
+0.00336	continue
+0.00339	but when
+0.00340	awards
+0.00340	not_book
+0.00342	see 
+0.00343	appear
+0.00344	remake
+0.00344	is well
+0.00344	through the
+0.00345	not_it not_to
+0.00345	looking for
+0.00345	ground
+0.00346	saw this film
+0.00346	heart 
+0.00346	all time
+0.00349	not_ but this
+0.00351	can say
+0.00351	i can say
+0.00351	does n't not_really
+0.00352	at 
+0.00353	bored
+0.00353	raise
+0.00353	fate
+0.00354	kept
+0.00357	other films
+0.00357	and of
+0.00358	unable
+0.00358	unable to
+0.00359	woman in
+0.00359	story of a
+0.00359	to believe that
+0.00361	13
+0.00361	entertainment
+0.00361	to understand
+0.00362	not_may
+0.00362	in her
+0.00363	- out
+0.00364	about what
+0.00364	amazed
+0.00365	it was a
+0.00367	makes me
+0.00368	" you
+0.00368	not_between
+0.00369	although the
+0.00370	that of
+0.00370	an excellent
+0.00370	one point
+0.00371	won
+0.00371	treatment
+0.00372	step
+0.00373	luck
+0.00374	-- the
+0.00374	computer
+0.00374	not_know what
+0.00374	by her
+0.00375	professional
+0.00377	was going
+0.00377	wrong 
+0.00378	robot
+0.00380	do i
+0.00380	not_american
+0.00380	king
+0.00380	talent 
+0.00381	not only
+0.00381	the movie and
+0.00382	these
+0.00383	is simply
+0.00384	outstanding
+0.00386	is good
+0.00386	summer
+0.00388	not_mind
+0.00389	sam
+0.00389	victim
+0.00390	a real
+0.00392	did
+0.00392	across
+0.00393	filled with
+0.00393	else
+0.00394	he also
+0.00394	i want to
+0.00394	not_time not_
+0.00395	well and
+0.00395	kid
+0.00395	i find
+0.00395	not_fit
+0.00395	" and "
+0.00396	are in
+0.00399	years ago
+0.00400	's no
+0.00401	done
+0.00401	academy
+0.00402	and after
+0.00402	who knows
+0.00403	each other 
+0.00403	us to
+0.00404	to see this
+0.00404	after seeing
+0.00404	not_someone
+0.00405	failure
+0.00406	the cast is
+0.00406	that all
+0.00407	devil
+0.00407	only in
+0.00407	away
+0.00408	good as
+0.00408	not_so not_much
+0.00411	all in all
+0.00411	terms
+0.00412	movie is a
+0.00414	jim
+0.00416	not_could
+0.00416	not_as not_it
+0.00417	opposite
+0.00418	the show 
+0.00419	wants to
+0.00420	you watch
+0.00421	one day
+0.00422	of us
+0.00422	lights
+0.00423	now not_
+0.00423	film is a
+0.00423	n't not_need
+0.00424	see how
+0.00424	in the face
+0.00426	others 
+0.00427	editing 
+0.00427	lady
+0.00428	" to
+0.00431	victims
+0.00431	the storyline
+0.00431	i do n't
+0.00431	not_is not_
+0.00431	which they
+0.00432	not_else
+0.00432	movie to
+0.00432	not_the not_time
+0.00433	violent
+0.00434	in addition
+0.00434	recent
+0.00434	nice
+0.00435	roll
+0.00437	became a
+0.00437	he 's a
+0.00437	gone
+0.00438	comedic
+0.00438	us 
+0.00438	sexy
+0.00439	director 
+0.00439	twice
+0.00439	wants
+0.00440	not_violence
+0.00441	in such
+0.00441	him
+0.00442	&
+0.00442	is the best
+0.00443	track
+0.00443	to his
+0.00443	is n't not_a
+0.00443	for some reason
+0.00443	some reason
+0.00444	i saw it
+0.00444	heroine
+0.00444	not_exactly
+0.00444	his career
+0.00444	films are
+0.00444	with her
+0.00445	like in
+0.00445	films and
+0.00447	himself
+0.00447	introduced
+0.00448	with "
+0.00449	efforts
+0.00449	fights
+0.00451	cinematography 
+0.00452	not_'ll
+0.00452	well as the
+0.00452	comments
+0.00454	as well 
+0.00455	would like
+0.00455	includes
+0.00455	an hour
+0.00456	was not
+0.00456	i read
+0.00456	at that
+0.00456	central
+0.00457	the day
+0.00457	not_anything
+0.00462	nor
+0.00465	loses
+0.00467	bought
+0.00468	it it 's
+0.00468	's really
+0.00469	with all
+0.00469	n't not_work
+0.00469	find it
+0.00469	' in
+0.00471	wow 
+0.00472	characters 
+0.00472	bad acting
+0.00473	the writers
+0.00474	a kid
+0.00475	to me
+0.00475	treasure
+0.00476	record
+0.00476	so many
+0.00478	south
+0.00478	join
+0.00478	due to the
+0.00479	going
+0.00479	not_most
+0.00480	first
+0.00480	heroes
+0.00481	they will
+0.00482	which has
+0.00482	over the top
+0.00482	it 's very
+0.00483	not_ this film
+0.00484	direction 
+0.00484	to this
+0.00484	just that
+0.00485	hard to
+0.00487	of an
+0.00488	physical
+0.00489	part
+0.00489	set of
+0.00489	is certainly
+0.00490	" but
+0.00490	not_the not_best
+0.00490	down to
+0.00490	historical
+0.00490	returns
+0.00490	this is the
+0.00491	anything 
+0.00491	in the middle
+0.00492	not_over
+0.00493	i like
+0.00495	helped
+0.00495	40
+0.00497	on her
+0.00497	probably the
+0.00499	with an
+0.00499	or not not_
+0.00500	not_this not_film not_
+0.00500	writers
+0.00500	not_movie not_is
+0.00501	seeing the
+0.00501	i have seen
+0.00502	animal
+0.00503	up for
+0.00503	one of his
+0.00504	the series 
+0.00505	roles 
+0.00505	that if
+0.00506	in the end
+0.00506	that his
+0.00507	a sense
+0.00507	in a way
+0.00507	takes a
+0.00508	not_remember
+0.00508	follow
+0.00508	it is the
+0.00508	adventure
+0.00509	match
+0.00511	a result
+0.00511	as a result
+0.00511	it 's the
+0.00511	of my
+0.00514	this movie and
+0.00514	such a
+0.00514	cultural
+0.00514	considering the
+0.00515	the more
+0.00515	and people
+0.00515	delivers
+0.00516	peter
+0.00517	me
+0.00519	makers
+0.00520	not not_only
+0.00520	and not
+0.00520	up and
+0.00521	n't not_watch
+0.00523	'll be
+0.00523	is this
+0.00523	not_ i would
+0.00525	not_his
+0.00525	it 's
+0.00528	in our
+0.00528	africa
+0.00528	not_since
+0.00528	only reason
+0.00530	i 'd
+0.00530	not_stand
+0.00531	background
+0.00532	not_young
+0.00533	no not_real
+0.00534	began
+0.00534	at the end
+0.00535	have the
+0.00535	the young
+0.00536	therefore
+0.00536	story about
+0.00536	not_later
+0.00537	8
+0.00538	of the "
+0.00538	seen in
+0.00538	had no
+0.00539	driving
+0.00540	film as
+0.00540	with it 
+0.00541	not_in not_this not_film
+0.00542	and most
+0.00543	not_that not_'s
+0.00543	check out
+0.00544	actors in
+0.00544	surprise
+0.00547	is now
+0.00547	or not
+0.00547	will be
+0.00548	soundtrack
+0.00548	take a
+0.00548	control
+0.00549	not_live
+0.00550	says 
+0.00551	i had
+0.00551	is a great
+0.00552	oscar
+0.00553	is probably
+0.00553	n't not_get
+0.00554	( or
+0.00554	movie is so
+0.00554	) i
+0.00554	real life
+0.00555	many other
+0.00555	identity
+0.00555	these days 
+0.00556	appearance
+0.00556	of this movie
+0.00558	the kind
+0.00558	set in
+0.00559	death of
+0.00560	not_you not_
+0.00561	captain
+0.00563	this one
+0.00564	store
+0.00564	dancing
+0.00564	with his
+0.00564	not_away
+0.00565	the dark
+0.00565	stars 
+0.00567	it should
+0.00568	not_ we
+0.00569	needs
+0.00570	considering
+0.00570	not_human
+0.00570	( played
+0.00571	of each
+0.00572	singing
+0.00573	the end of
+0.00574	not_any not_of
+0.00574	and the film
+0.00575	relationships
+0.00575	not_we
+0.00577	not_together
+0.00577	past 
+0.00577	" "
+0.00578	he finds
+0.00578	dr
+0.00578	time of
+0.00579	above
+0.00580	unlike
+0.00580	meaning
+0.00581	one that
+0.00582	detective
+0.00582	with some
+0.00582	paul
+0.00584	into an
+0.00584	who would
+0.00585	if you like
+0.00585	because i
+0.00586	not_ who
+0.00586	show 
+0.00587	by his
+0.00588	crazy
+0.00588	was no
+0.00589	something to
+0.00592	not_up not_to
+0.00594	bad guys
+0.00595	- it
+0.00596	motion
+0.00597	police
+0.00598	not_tell
+0.00599	steve
+0.00599	expected
+0.00601	its own
+0.00604	begins to
+0.00604	and i have
+0.00606	not_film not_and
+0.00606	the head
+0.00606	use
+0.00607	and was
+0.00607	the picture
+0.00612	border
+0.00613	for their
+0.00614	ones
+0.00614	escape
+0.00614	sophisticated
+0.00614	with it
+0.00614	number of
+0.00614	- the -
+0.00614	the -
+0.00615	studio
+0.00615	david
+0.00615	porn
+0.00616	now 
+0.00617	" in
+0.00618	simply
+0.00619	sheer
+0.00620	) a
+0.00621	loved the
+0.00621	the family
+0.00622	character is
+0.00624	general
+0.00625	not_already
+0.00626	- line
+0.00628	i can
+0.00629	magic
+0.00631	make you
+0.00631	there 
+0.00631	the beginning
+0.00632	visit
+0.00632	people who
+0.00633	this movie was
+0.00633	that this is
+0.00634	slightly
+0.00634	n't not_quite
+0.00634	watching a
+0.00635	seen this
+0.00636	not_show
+0.00637	falling
+0.00638	curious
+0.00640	leaves
+0.00640	also the
+0.00641	small
+0.00641	biggest
+0.00641	it is 
+0.00641	is good 
+0.00641	you ca
+0.00641	you ca n't
+0.00642	not_evil
+0.00642	movies are
+0.00644	a well
+0.00645	not_on not_a
+0.00648	van
+0.00649	and for
+0.00649	not_movies not_
+0.00649	i bought
+0.00650	powers
+0.00651	not_what
+0.00651	reason i
+0.00652	not_too not_much
+0.00652	would like to
+0.00653	and well
+0.00653	god
+0.00653	mid
+0.00655	against
+0.00655	that does n't
+0.00656	happens
+0.00657	evil
+0.00657	not_to not_be
+0.00657	reading the
+0.00658	speak
+0.00658	spectacular
+0.00660	who had
+0.00660	on
+0.00661	not_ in fact
+0.00661	and funny
+0.00661	fiction
+0.00662	that the film
+0.00662	not_pay
+0.00663	level 
+0.00664	discovers
+0.00665	about it
+0.00666	) or
+0.00667	certainly
+0.00667	this a
+0.00667	sees
+0.00668	from his
+0.00668	role of
+0.00670	film has
+0.00672	not_it not_'s
+0.00672	not_see not_the
+0.00673	otherwise
+0.00673	course 
+0.00673	of course 
+0.00674	eyes
+0.00675	" (
+0.00676	government
+0.00677	have had
+0.00678	albert
+0.00680	climax
+0.00681	such
+0.00681	can be
+0.00681	keep
+0.00684	thanks to
+0.00684	about
+0.00685	surprising
+0.00686	living in
+0.00687	remains
+0.00687	not_if not_you
+0.00688	an old
+0.00688	not_mention
+0.00688	fellow
+0.00690	not_had
+0.00691	ten
+0.00691	know not_the
+0.00691	as some
+0.00691	and probably
+0.00692	" a
+0.00694	and as
+0.00695	a story
+0.00695	that i have
+0.00696	blue
+0.00696	- up
+0.00697	appeared
+0.00698	la
+0.00701	" was
+0.00701	finds
+0.00701	not_woman
+0.00702	actresses
+0.00703	run
+0.00703	performances 
+0.00705	in a
+0.00705	long 
+0.00705	not_ca
+0.00705	year 
+0.00706	the long
+0.00706	second 
+0.00706	the point
+0.00706	the high
+0.00707	exciting
+0.00710	not_then
+0.00710	25
+0.00710	still 
+0.00711	case
+0.00712	not_one not_of
+0.00714	side
+0.00714	little 
+0.00714	easily
+0.00715	not_have not_to
+0.00715	not_was not_a
+0.00718	and all the
+0.00719	if you can
+0.00719	anything else
+0.00721	not_seen
+0.00721	happened to
+0.00722	a truly
+0.00722	actual
+0.00723	has to
+0.00723	the characters are
+0.00725	information
+0.00725	of the plot
+0.00725	hero
+0.00725	love with
+0.00727	the great
+0.00728	even if you
+0.00728	manages
+0.00728	did in
+0.00728	out with
+0.00729	took
+0.00729	higher
+0.00730	walking
+0.00730	bit
+0.00731	you 'll
+0.00731	end of
+0.00734	not_that not_i
+0.00734	story is
+0.00734	compare
+0.00736	issue
+0.00737	court
+0.00737	and it is
+0.00738	that can
+0.00738	choose
+0.00738	and her
+0.00739	done 
+0.00739	months
+0.00742	them to
+0.00742	that is
+0.00743	not_guy
+0.00744	" is a
+0.00745	plays the
+0.00745	to know
+0.00747	( it
+0.00747	way of
+0.00747	glad
+0.00748	a major
+0.00748	as a
+0.00749	working
+0.00749	knows
+0.00749	his father
+0.00749	things 
+0.00749	and very
+0.00749	when it
+0.00751	so
+0.00751	folks
+0.00751	be an
+0.00753	discover
+0.00753	quite good
+0.00754	older
+0.00755	to end
+0.00755	current
+0.00755	out of 10
+0.00756	to create
+0.00757	screen 
+0.00758	anyone who
+0.00760	shock
+0.00760	not_is not_the
+0.00761	blind
+0.00761	the police
+0.00762	n't not_do
+0.00763	not_whole
+0.00763	i must say
+0.00763	must say
+0.00763	the town
+0.00763	movie i
+0.00765	and in
+0.00766	major
+0.00766	love and
+0.00768	with that
+0.00768	of the most
+0.00768	saying that
+0.00769	and that 's
+0.00769	the only reason
+0.00774	not_ which
+0.00775	sad 
+0.00775	rock
+0.00777	and yet
+0.00778	violence 
+0.00778	camera work
+0.00779	in what
+0.00780	and still
+0.00780	is hilarious
+0.00781	all the
+0.00782	the final
+0.00784	just because
+0.00785	you did
+0.00785	rich
+0.00785	would be
+0.00785	) and the
+0.00786	ill
+0.00786	the kind of
+0.00787	not_ if you
+0.00787	of your
+0.00788	mass
+0.00789	we had
+0.00790	sometimes
+0.00790	finally
+0.00790	than that
+0.00790	camera
+0.00793	all this
+0.00794	not_really
+0.00796	power
+0.00796	has the
+0.00801	likely
+0.00801	when i saw
+0.00801	is at
+0.00801	teacher
+0.00802	and all
+0.00802	so that
+0.00805	thought it was
+0.00806	fairy
+0.00807	fun to
+0.00807	deep
+0.00807	thank
+0.00807	are just
+0.00808	yes
+0.00810	first half
+0.00810	the first half
+0.00811	contact
+0.00811	classic 
+0.00812	uses
+0.00814	been the
+0.00814	' is
+0.00815	the rest
+0.00815	not_of not_it
+0.00816	but they are
+0.00816	absolutely
+0.00816	tells
+0.00817	portrayed
+0.00818	- of -
+0.00818	of -
+0.00818	standing
+0.00820	i love
+0.00821	stage
+0.00821	amusing
+0.00821	not_father
+0.00821	manages to
+0.00822	the black
+0.00823	this in
+0.00824	the one
+0.00825	a second
+0.00825	and some
+0.00825	not_to not_have
+0.00825	town
+0.00825	films that
+0.00827	than it
+0.00827	may be
+0.00828	with me
+0.00828	does
+0.00828	in an
+0.00829	these characters
+0.00830	pictures
+0.00831	be in
+0.00831	not_yet not_
+0.00832	all in
+0.00833	( played by
+0.00836	his wife
+0.00838	scenes with
+0.00838	10 
+0.00838	not_special
+0.00838	were a
+0.00839	n't not_be
+0.00840	or at
+0.00840	or at least
+0.00841	sympathetic
+0.00842	same
+0.00844	hear
+0.00844	scenes and
+0.00845	boss
+0.00845	team
+0.00846	father 
+0.00846	other 
+0.00847	easy to
+0.00847	i saw this
+0.00847	tension
+0.00848	to -
+0.00849	impossible
+0.00849	of those
+0.00851	quality
+0.00856	on an
+0.00858	so the
+0.00859	not_ one
+0.00860	fresh
+0.00860	but you
+0.00860	hilarious
+0.00861	within the
+0.00862	i give
+0.00863	george
+0.00863	felt
+0.00864	sequels
+0.00865	images
+0.00865	nature
+0.00865	was more
+0.00865	there 's no
+0.00867	parts
+0.00868	his
+0.00868	the world of
+0.00869	the actual
+0.00869	not_he
+0.00869	( though
+0.00870	i could
+0.00870	wow
+0.00871	this film has
+0.00872	reminds
+0.00872	keaton
+0.00873	if you 're
+0.00874	really good
+0.00874	she
+0.00875	in fact 
+0.00875	too long
+0.00877	animation
+0.00877	history
+0.00879	the characters
+0.00880	the movie 's
+0.00880	office
+0.00880	picture 
+0.00881	just as
+0.00882	actors 
+0.00882	face 
+0.00883	what she
+0.00883	lot of the
+0.00885	be able
+0.00885	be able to
+0.00887	beauty
+0.00890	form of
+0.00891	not_wife
+0.00891	main character
+0.00892	only to
+0.00892	does a
+0.00895	to keep
+0.00895	impressive
+0.00896	puts
+0.00897	mystery
+0.00897	then again
+0.00898	visually
+0.00900	the beginning of
+0.00900	storyline 
+0.00900	as "
+0.00901	somehow
+0.00902	issues
+0.00903	and now
+0.00903	touches
+0.00903	the face
+0.00904	view 
+0.00904	in love
+0.00904	political
+0.00905	rest of the
+0.00905	different
+0.00908	though it
+0.00908	was probably
+0.00909	real
+0.00909	light 
+0.00911	that this film
+0.00911	about to
+0.00912	joy
+0.00914	they had
+0.00916	clothes
+0.00918	that makes
+0.00919	and if
+0.00921	only reason i
+0.00922	last
+0.00922	u.s
+0.00923	message
+0.00923	questions
+0.00923	not_into not_the
+0.00923	ladies
+0.00924	joe
+0.00925	loving
+0.00925	can do
+0.00926	to look
+0.00926	surface
+0.00927	morning
+0.00927	mind
+0.00927	especially the
+0.00928	friends
+0.00928	search
+0.00929	dead
+0.00930	movie of
+0.00930	life 
+0.00932	because of
+0.00933	to get the
+0.00934	is also
+0.00935	to admit
+0.00935	live
+0.00936	that it is
+0.00937	out 
+0.00938	fire
+0.00938	not_the not_film not_
+0.00938	like "
+0.00940	he makes
+0.00940	imagination
+0.00941	house 
+0.00941	very well
+0.00942	goes to
+0.00946	not_talking
+0.00948	say
+0.00949	i feel
+0.00951	check
+0.00952	corny
+0.00953	he is
+0.00953	war 
+0.00954	- of
+0.00955	not_late
+0.00956	this show
+0.00956	were so
+0.00956	that they
+0.00957	i really
+0.00958	a much
+0.00960	for what
+0.00963	past
+0.00964	right 
+0.00964	continues
+0.00966	english
+0.00966	girl
+0.00967	at this
+0.00967	not_him not_
+0.00967	turns
+0.00969	any other
+0.00969	do n't not_like
+0.00970	may
+0.00971	hell
+0.00971	worth watching
+0.00972	we see
+0.00972	no not_exception
+0.00974	up the
+0.00977	nicely
+0.00978	talk
+0.00982	it out
+0.00983	this movie is
+0.00983	not_times
+0.00983	entirely
+0.00983	( a
+0.00984	as well as
+0.00985	low 
+0.00985	on screen 
+0.00986	the whole
+0.00986	bring
+0.00986	not_person
+0.00987	stands
+0.00988	little
+0.00989	and does
+0.00990	test
+0.00991	art
+0.00992	fox
+0.00992	in the same
+0.00993	give it a
+0.00993	11
+0.00995	not_about
+0.00995	worlds
+0.00995	were 
+0.00998	quite
+0.00999	events
+0.01000	more to
+0.01001	especially when
+0.01002	asking
+0.01003	spend
+0.01003	watch a
+0.01004	this case
+0.01004	--
+0.01004	to watch the
+0.01005	person
+0.01006	me laugh
+0.01007	him 
+0.01007	n't not_like
+0.01008	best in
+0.01010	over and
+0.01016	was only
+0.01016	i still
+0.01016	on to
+0.01018	shot
+0.01019	the new
+0.01019	in order to
+0.01019	order to
+0.01020	social
+0.01022	movie 's
+0.01023	he
+0.01023	deserved
+0.01024	beginning of the
+0.01024	not_that not_it
+0.01026	hey
+0.01028	brilliantly
+0.01031	wise
+0.01031	not_) not_and
+0.01033	i think it
+0.01033	the human
+0.01035	woman 
+0.01035	not_back
+0.01036	people
+0.01037	his best
+0.01038	bar
+0.01039	not_ is
+0.01039	it on
+0.01039	accept
+0.01040	i 've ever
+0.01041	and everyone
+0.01041	in other
+0.01041	up
+0.01041	melodrama
+0.01041	can not not_be
+0.01044	not_hard
+0.01045	i never
+0.01045	and also
+0.01046	those who
+0.01046	all these
+0.01046	the cast
+0.01047	take
+0.01047	super
+0.01049	not_friends
+0.01051	and i was
+0.01052	not_the not_end
+0.01052	are also
+0.01054	not_ with
+0.01055	she is
+0.01057	what you
+0.01057	violence
+0.01059	hated
+0.01063	watch the
+0.01063	a girl
+0.01063	not not_have
+0.01064	to come
+0.01064	50
+0.01065	told
+0.01067	interested in
+0.01067	you have to
+0.01068	not_us
+0.01068	i was
+0.01069	that does
+0.01069	the same
+0.01071	next
+0.01071	movie i have
+0.01072	opinion 
+0.01075	i think the
+0.01075	rarely
+0.01076	self -
+0.01078	unusual
+0.01079	across the
+0.01080	addition
+0.01081	produced
+0.01081	mother 
+0.01082	and at
+0.01083	movie was
+0.01084	when you
+0.01084	of 
+0.01085	than that 
+0.01085	not_mean
+0.01086	by the
+0.01087	first 
+0.01087	over the
+0.01089	will have
+0.01091	available
+0.01092	creates
+0.01093	shame
+0.01094	the overall
+0.01094	while he
+0.01094	young woman
+0.01094	actors are
+0.01094	he does n't
+0.01095	n't not_that
+0.01095	going on
+0.01095	that there
+0.01097	over a
+0.01097	episode 
+0.01097	the big
+0.01097	having
+0.01099	and the
+0.01100	and even
+0.01100	and
+0.01100	not_ you
+0.01101	not_things
+0.01101	moment
+0.01102	if it was
+0.01103	not_used
+0.01103	his family
+0.01103	food
+0.01104	he and
+0.01105	come
+0.01105	the american
+0.01108	drawn
+0.01108	up in
+0.01108	fans 
+0.01108	try
+0.01108	died
+0.01109	offer
+0.01115	marriage
+0.01115	not_understand
+0.01116	watch this
+0.01117	ca n't
+0.01117	attention
+0.01117	european
+0.01118	a really
+0.01118	treat
+0.01119	they were
+0.01120	everything 
+0.01128	changed
+0.01128	rare
+0.01128	this
+0.01129	got the
+0.01131	decades
+0.01131	longer
+0.01131	moments of
+0.01132	not_and not_the
+0.01133	he can
+0.01134	finale
+0.01136	did not
+0.01138	not_ as
+0.01139	brings
+0.01141	mr
+0.01143	smith
+0.01144	critics
+0.01145	of the time
+0.01146	've ever
+0.01147	appears to
+0.01150	twists
+0.01152	roles
+0.01152	ultimate
+0.01155	end 
+0.01156	canadian
+0.01156	and "
+0.01157	of the story
+0.01158	superb
+0.01159	begins
+0.01159	not_life not_
+0.01161	i think this
+0.01161	places
+0.01162	front
+0.01162	not_himself
+0.01163	wo n't
+0.01164	artist
+0.01164	of 10
+0.01165	try to
+0.01165	acted
+0.01165	not_hand
+0.01166	not_for not_a
+0.01166	features
+0.01167	deal with
+0.01167	the actors are
+0.01171	- man
+0.01171	in order
+0.01172	studios
+0.01172	torture
+0.01175	phone
+0.01176	difficult
+0.01176	not_nearly
+0.01178	not_ for
+0.01178	ended
+0.01180	noir
+0.01181	discovered
+0.01181	beginning to
+0.01182	which i
+0.01183	man who
+0.01183	hollywood 
+0.01185	hot
+0.01187	are going
+0.01187	when we
+0.01187	makes a
+0.01187	not not_just
+0.01188	america
+0.01189	pure
+0.01191	women 
+0.01191	not not_for
+0.01193	fact
+0.01193	of this film
+0.01194	is all
+0.01196	pay
+0.01197	not_the not_way
+0.01198	why it
+0.01198	follows
+0.01199	actor 
+0.01200	forever
+0.01200	suffering
+0.01201	15
+0.01201	eyes 
+0.01202	this is an
+0.01202	of you
+0.01203	much as
+0.01204	a couple
+0.01207	in hollywood
+0.01208	not_but not_it
+0.01208	street
+0.01211	for the
+0.01211	it out 
+0.01216	photography
+0.01217	childhood
+0.01217	the stage
+0.01217	me and
+0.01218	world of
+0.01218	12
+0.01219	at a
+0.01219	willing to
+0.01221	along with
+0.01222	doubt
+0.01223	here is
+0.01224	not not_all
+0.01225	meeting
+0.01228	some people
+0.01229	lynch
+0.01232	trying
+0.01234	not_can
+0.01235	situation
+0.01235	frank
+0.01236	laugh
+0.01236	saw this movie
+0.01237	cold
+0.01241	thought the
+0.01242	sure 
+0.01244	unique
+0.01244	italian
+0.01245	it is n't
+0.01249	wanted to
+0.01253	is definitely
+0.01254	hell 
+0.01256	becoming
+0.01257	makes the
+0.01257	scary 
+0.01261	movies and
+0.01262	certain
+0.01264	expecting
+0.01265	ages
+0.01265	lets
+0.01266	you really
+0.01267	made it
+0.01267	loves
+0.01267	talks
+0.01268	and their
+0.01269	people were
+0.01270	enjoyable
+0.01272	week
+0.01274	feature
+0.01276	creative
+0.01276	for him
+0.01276	not_was not_
+0.01278	made me
+0.01280	) in
+0.01282	contrast
+0.01284	made the
+0.01284	was good
+0.01286	not_'
+0.01288	coming
+0.01288	woman who
+0.01288	not_end
+0.01289	aka
+0.01289	should have been
+0.01289	in the world
+0.01289	but 
+0.01290	( in
+0.01291	sitting
+0.01291	reasons 
+0.01295	alone
+0.01295	war
+0.01297	dad
+0.01298	used to
+0.01299	think this
+0.01301	see this
+0.01304	not_of not_the
+0.01305	funny and
+0.01308	of great
+0.01309	because it 's
+0.01309	well as
+0.01311	mind 
+0.01311	so he
+0.01315	off with
+0.01316	throughout 
+0.01317	man
+0.01317	less
+0.01318	our
+0.01318	fight
+0.01319	not_exception
+0.01321	this time
+0.01321	think the
+0.01321	does have
+0.01323	to see
+0.01324	have n't
+0.01324	dealing
+0.01329	not_in not_this
+0.01329	out and
+0.01329	the case
+0.01331	behavior
+0.01331	not_other
+0.01332	complex
+0.01333	sets
+0.01335	feel
+0.01336	enjoy 
+0.01337	work 
+0.01337	the better
+0.01338	well done
+0.01341	sick
+0.01342	think it
+0.01343	seriously
+0.01343	waiting for
+0.01344	so if you
+0.01345	into
+0.01346	a man who
+0.01347	much
+0.01347	order
+0.01349	mainly
+0.01349	i liked
+0.01350	as i
+0.01350	you get
+0.01351	work and
+0.01351	under
+0.01352	be
+0.01353	beginning of
+0.01354	to watch 
+0.01354	wife
+0.01355	is still
+0.01355	who was
+0.01359	this story
+0.01360	each other
+0.01360	seeing this
+0.01361	fear
+0.01361	think
+0.01361	depicted
+0.01362	the three
+0.01363	directed
+0.01364	kills
+0.01364	but that is
+0.01366	seen the
+0.01369	has n't
+0.01370	by the end
+0.01372	taking
+0.01372	simple 
+0.01374	movie about
+0.01374	the cast 
+0.01374	into this
+0.01377	smart
+0.01378	everybody
+0.01379	to get
+0.01380	her to
+0.01381	culture
+0.01382	suspense
+0.01382	to die
+0.01382	don
+0.01382	movie has
+0.01383	some
+0.01383	not_ just
+0.01385	not_death
+0.01385	considered
+0.01388	reach
+0.01388	it with
+0.01389	is quite
+0.01389	it really
+0.01391	compared to
+0.01391	is a very
+0.01392	's best
+0.01392	've ever seen
+0.01395	this movie has
+0.01396	grand
+0.01398	at times
+0.01399	understand that
+0.01400	of my favorite
+0.01400	said
+0.01402	is why
+0.01402	until the
+0.01404	not_in not_this not_movie
+0.01404	the scene where
+0.01408	smile
+0.01408	of how
+0.01408	not_by
+0.01410	the next
+0.01413	where he
+0.01413	on his
+0.01415	saw
+0.01416	boy 
+0.01418	guys
+0.01418	director of
+0.01420	only a
+0.01420	not_of not_the not_film
+0.01421	giving
+0.01421	
+0.01423	couple
+0.01423	says
+0.01423	the woman
+0.01424	the best 
+0.01425	best 
+0.01425	favourite
+0.01425	without the
+0.01426	takes
+0.01427	long -
+0.01429	terrific
+0.01432	i 'll
+0.01433	we all
+0.01436	is a movie
+0.01438	when i was
+0.01439	she had
+0.01441	that you
+0.01441	give it
+0.01443	not_star
+0.01445	the camera
+0.01446	jason
+0.01448	not_same
+0.01448	not_the not_same
+0.01449	( no
+0.01451	a movie
+0.01452	town 
+0.01453	trailer
+0.01456	able
+0.01458	period
+0.01459	you to
+0.01459	(
+0.01459	mgm
+0.01460	friends 
+0.01460	is what
+0.01460	while the
+0.01460	moves
+0.01460	open
+0.01462	four
+0.01463	sure
+0.01464	life and
+0.01465	nt
+0.01465	not_matter
+0.01467	a wonderful
+0.01468	is worth
+0.01475	william
+0.01476	shots 
+0.01477	's still
+0.01480	are
+0.01481	masterpiece
+0.01481	easy
+0.01481	end of the
+0.01482	among the
+0.01484	lives 
+0.01485	convincing
+0.01485	crime
+0.01489	a fun
+0.01489	will
+0.01490	this was a
+0.01491	's also
+0.01492	loved this
+0.01493	miss
+0.01494	settings
+0.01494	water
+0.01495	necessary
+0.01495	appears to be
+0.01496	and my
+0.01496	return
+0.01496	as we
+0.01496	that it
+0.01499	a woman
+0.01499	willing
+0.01502	not_find
+0.01503	the role
+0.01506	use of
+0.01507	the viewer
+0.01508	planet
+0.01509	viewing
+0.01510	age 
+0.01510	it 's a
+0.01510	watching 
+0.01514	theme
+0.01515	his new
+0.01516	as much as
+0.01517	can not
+0.01518	number
+0.01520	received
+0.01522	hard 
+0.01523	not_longer
+0.01525	the story and
+0.01529	death
+0.01529	surprised
+0.01530	fans
+0.01531	is excellent
+0.01536	itself 
+0.01537	recently
+0.01538	and watch
+0.01539	a single
+0.01540	to live
+0.01543	do you
+0.01544	trying to
+0.01544	not_"
+0.01546	and an
+0.01547	him in
+0.01550	the top
+0.01553	got a
+0.01553	films 
+0.01554	really is
+0.01555	so if
+0.01555	of course
+0.01556	not_ when
+0.01558	realistic 
+0.01559	not_yet
+0.01561	wish
+0.01564	to life
+0.01564	when she
+0.01567	watched it
+0.01570	so 
+0.01572	figure
+0.01572	murder
+0.01573	a great movie
+0.01573	nature 
+0.01575	short
+0.01577	not_only
+0.01577	would not
+0.01579	a small
+0.01579	the movies
+0.01582	is that
+0.01582	many of the
+0.01586	it 's one
+0.01586	n't not_seen
+0.01590	city 
+0.01592	she did
+0.01592	theatrical
+0.01592	just so
+0.01597	which the
+0.01597	to try
+0.01598	middle of
+0.01598	the middle of
+0.01602	around a
+0.01603	must see
+0.01606	when i
+0.01608	german
+0.01609	presents
+0.01610	upon
+0.01611	actor
+0.01614	movies 
+0.01615	laugh at
+0.01615	of which
+0.01615	offers
+0.01616	deserves
+0.01617	city
+0.01617	able to
+0.01619	end
+0.01622	of the
+0.01626	film are
+0.01628	to take
+0.01633	western
+0.01633	heart
+0.01642	storyline
+0.01642	stories 
+0.01642	impressed
+0.01646	a couple of
+0.01646	helps
+0.01648	plays a
+0.01655	not_makes
+0.01656	paced
+0.01658	alone 
+0.01658	a little bit
+0.01658	little bit
+0.01658	speed
+0.01658	) who
+0.01660	say that
+0.01660	piece of
+0.01661	i enjoyed
+0.01661	approach
+0.01663	it all 
+0.01664	he has
+0.01667	head
+0.01668	who is
+0.01670	whether
+0.01671	not_best
+0.01672	think about
+0.01673	highly recommend
+0.01673	i highly
+0.01673	i highly recommend
+0.01673	for 
+0.01674	level
+0.01677	cameo
+0.01677	i must
+0.01678	genre
+0.01679	among
+0.01680	a family
+0.01681	not_ now
+0.01681	years of
+0.01683	's life
+0.01683	similar
+0.01685	various
+0.01686	masterpiece 
+0.01686	liked the
+0.01686	was on
+0.01687	the very
+0.01688	's 
+0.01689	a
+0.01689	throughout
+0.01691	family 
+0.01691	this one is
+0.01693	brilliant 
+0.01695	probably
+0.01696	not_did
+0.01697	not_of
+0.01698	not_now
+0.01699	a number
+0.01700	die
+0.01705	what it is
+0.01706	same time 
+0.01708	lot
+0.01710	modern
+0.01711	the cinema
+0.01713	knowing
+0.01714	charming
+0.01717	of the film
+0.01720	point 
+0.01721	in any
+0.01722	wo
+0.01724	not_is not_a
+0.01725	she 's
+0.01725	as he
+0.01727	not_ it was
+0.01728	ca
+0.01731	the others
+0.01732	sky
+0.01736	mad
+0.01740	photography 
+0.01741	further
+0.01743	in its
+0.01747	view
+0.01748	of the finest
+0.01748	this film is
+0.01749	rest
+0.01749	gang
+0.01750	just like
+0.01751	my friends
+0.01755	out for
+0.01756	ever
+0.01757	loved it
+0.01757	struggle
+0.01758	feelings
+0.01758	i have n't
+0.01759	lived
+0.01759	interested
+0.01763	seat
+0.01763	- the
+0.01768	brief
+0.01769	society
+0.01771	who are
+0.01772	adult
+0.01773	film does
+0.01774	baby
+0.01774	sent
+0.01778	break
+0.01783	believe
+0.01792	in which
+0.01793	a different
+0.01794	was that
+0.01799	people 
+0.01799	not_series
+0.01799	odd
+0.01799	each
+0.01800	what we
+0.01801	the greatest
+0.01801	if you
+0.01801	not_character
+0.01802	raw
+0.01803	i actually
+0.01803	are very
+0.01803	wanted
+0.01807	i first
+0.01807	story of
+0.01807	problems
+0.01808	genuinely
+0.01810	not_ especially
+0.01812	to say
+0.01815	or the
+0.01816	understand
+0.01817	portraying
+0.01819	pulled
+0.01819	is like
+0.01820	thanks
+0.01823	clever
+0.01830	box
+0.01835	a way
+0.01837	a simple
+0.01838	of their
+0.01841	underrated
+0.01848	than
+0.01849	real 
+0.01849	shots
+0.01849	home 
+0.01851	impact
+0.01853	travel
+0.01856	suggest
+0.01859	a big
+0.01861	not_way
+0.01861	to find
+0.01862	desperate
+0.01864	n't not_a
+0.01868	boy
+0.01868	scene where
+0.01868	scene
+0.01870	married
+0.01871	weird
+0.01872	tragedy
+0.01872	pace
+0.01872	's one of
+0.01873	cast 
+0.01877	a series
+0.01880	which is
+0.01882	work of
+0.01886	straight
+0.01889	was the
+0.01890	because it
+0.01891	death 
+0.01892	of this
+0.01894	this is one
+0.01894	white
+0.01895	a man
+0.01897	and you
+0.01898	contains
+0.01899	late
+0.01901	gorgeous
+0.01904	the series
+0.01905	's one
+0.01907	love to
+0.01908	innocent
+0.01908	enjoy the
+0.01909	tale
+0.01909	has it
+0.01910	top
+0.01910	not_did not_n't
+0.01912	of "
+0.01915	days 
+0.01916	in fact
+0.01918	party
+0.01918	fascinating
+0.01921	today 
+0.01922	a new
+0.01923	to my
+0.01923	out of
+0.01924	life of
+0.01924	in many
+0.01930	drunk
+0.01931	highly recommended 
+0.01939	incredible
+0.01939	all that
+0.01939	to help
+0.01940	emotional
+0.01945	a fine
+0.01950	intense
+0.01952	new york
+0.01952	japanese
+0.01952	the edge
+0.01953	perfectly
+0.01954	consider
+0.01955	not_screen
+0.01959	home
+0.01965	one is
+0.01965	not_ she
+0.01968	the performances
+0.01969	think it 's
+0.01971	drama 
+0.01971	score
+0.01972	future
+0.01976	camp
+0.01979	moving
+0.01980	job 
+0.01980	it has a
+0.01982	i think
+0.01982	eventually
+0.01983	at first
+0.01984	truly
+0.01986	rate
+0.01989	i thought it
+0.01991	parents
+0.01993	a classic
+0.01997	solid
+0.01997	you can
+0.02000	christopher
+0.02000	magnificent
+0.02002	robert
+0.02004	at the same
+0.02005	to see it
+0.02009	not_until
+0.02010	excellent 
+0.02010	set
+0.02017	revealed
+0.02018	films of
+0.02018	likable
+0.02019	you think
+0.02020	( who
+0.02022	lovely
+0.02026	seen
+0.02027	not_be
+0.02028	epic
+0.02030	not_ it is
+0.02031	compared
+0.02031	supporting
+0.02034	he does
+0.02036	memorable
+0.02038	intelligent
+0.02046	journey
+0.02048	you should
+0.02048	towards the end
+0.02052	stand
+0.02052	the show
+0.02052	of human
+0.02052	in my opinion
+0.02055	that this
+0.02059	within
+0.02060	out
+0.02062	truth
+0.02064	great movie
+0.02068	stories
+0.02070	not_does
+0.02071	highly recommended
+0.02072	including
+0.02073	many of
+0.02081	had to
+0.02081	7
+0.02082	haunting
+0.02098	asks
+0.02099	is in
+0.02099	not_without
+0.02101	his character
+0.02101	not not_be
+0.02103	three
+0.02104	not_n't
+0.02107	dance
+0.02108	( as
+0.02109	chemistry
+0.02112	reasons
+0.02112	delightful
+0.02112	the last
+0.02114	not_role
+0.02114	has a
+0.02116	on my
+0.02118	not_comes
+0.02120	that she
+0.02121	and it 's
+0.02122	not_ he
+0.02123	not_into
+0.02124	but it is
+0.02126	there 's a
+0.02126	richard
+0.02127	movies
+0.02128	of his
+0.02129	their own
+0.02130	characters and
+0.02131	showed
+0.02134	criminal
+0.02137	between the
+0.02137	appreciate
+0.02138	superior
+0.02139	without
+0.02139	moral
+0.02140	not_dvd
+0.02140	it a
+0.02141	interesting and
+0.02142	thought it
+0.02142	not_still
+0.02144	film of
+0.02146	piece
+0.02151	9
+0.02151	couple of
+0.02151	things
+0.02153	back and
+0.02154	's performance
+0.02158	whose
+0.02159	and she
+0.02170	york
+0.02170	catch
+0.02171	many people
+0.02173	to tell
+0.02177	to all
+0.02178	nominated
+0.02179	- and
+0.02181	by all
+0.02181	episode
+0.02182	musical
+0.02183	keeps
+0.02184	was great
+0.02188	waiting
+0.02189	to say that
+0.02189	bill
+0.02191	to be 
+0.02192	one of my
+0.02196	not_ but it
+0.02203	the story 
+0.02206	side of
+0.02207	important
+0.02208	romance 
+0.02215	brutal
+0.02216	tape
+0.02216	i saw
+0.02217	named
+0.02222	brother 
+0.02223	realized
+0.02230	not_need
+0.02230	beginning
+0.02237	experience
+0.02243	touch
+0.02253	reality
+0.02256	a time
+0.02259	night
+0.02259	not_-
+0.02260	watch it 
+0.02263	is an
+0.02271	together 
+0.02275	is about
+0.02276	on screen
+0.02277	plays
+0.02278	not_ that
+0.02278	lives
+0.02280	that it was
+0.02282	international
+0.02283	these two
+0.02286	-- and
+0.02297	help
+0.02299	's character
+0.02301	comic
+0.02302	as one
+0.02310	subtle
+0.02318	gem
+0.02319	him to
+0.02322	other
+0.02325	performance as
+0.02327	hollywood
+0.02329	it may
+0.02333	the life of
+0.02334	but in
+0.02338	we
+0.02345	men
+0.02351	not_) not_
+0.02353	knew
+0.02357	not_people
+0.02358	overall 
+0.02360	fine
+0.02370	dreams
+0.02372	what he
+0.02373	course
+0.02375	era
+0.02387	good film
+0.02387	the people
+0.02390	have to say
+0.02390	all of the
+0.02393	again
+0.02397	of her
+0.02397	not_are
+0.02399	wonderfully
+0.02401	my opinion
+0.02403	close to
+0.02403	not_action
+0.02411	that he
+0.02414	tears
+0.02430	several
+0.02434	characters are
+0.02435	i have to
+0.02437	this was
+0.02445	i do
+0.02446	becomes
+0.02451	towards
+0.02451	french
+0.02456	not_ it
+0.02464	the world
+0.02469	not_love
+0.02472	not_out not_of
+0.02476	and that
+0.02481	brothers
+0.02485	i believe
+0.02492	drama
+0.02493	me 
+0.02494	present
+0.02494	nevertheless
+0.02495	this is not
+0.02497	as it
+0.02498	that this movie
+0.02498	the end
+0.02509	basis
+0.02520	played by
+0.02522	i loved
+0.02526	most
+0.02528	particularly
+0.02537	times
+0.02544	learn
+0.02546	not_get
+0.02548	not_to not_watch
+0.02554	on dvd
+0.02555	caught
+0.02555	of all
+0.02564	close
+0.02566	natural
+0.02570	same time
+0.02570	the same time
+0.02573	you 're
+0.02589	so it
+0.02597	two
+0.02601	sweet
+0.02601	character 
+0.02606	to watch
+0.02607	living
+0.02611	you 've
+0.02612	recommend it
+0.02616	good and
+0.02616	not_dead
+0.02624	not_is
+0.02629	else 
+0.02635	realistic
+0.02637	love 
+0.02638	the movie 
+0.02639	steals
+0.02655	however 
+0.02656	later on
+0.02660	not_at not_the
+0.02669	standard
+0.02674	gives a
+0.02677	ride
+0.02681	a beautiful
+0.02684	americans
+0.02703	life is
+0.02707	story and
+0.02716	hit
+0.02717	a true
+0.02719	very funny
+0.02720	overall
+0.02726	movie and
+0.02729	surprisingly
+0.02729	) that
+0.02733	not_man
+0.02738	who has
+0.02741	greatest
+0.02742	towards the
+0.02747	father
+0.02747	wife 
+0.02748	form
+0.02752	how the
+0.02755	day 
+0.02758	role
+0.02759	compelling
+0.02791	growing
+0.02796	film with
+0.02798	not not_to
+0.02799	shows
+0.02801	the scene
+0.02802	wrong
+0.02823	deal
+0.02828	in their
+0.02829	is one
+0.02834	until
+0.02836	definitely
+0.02838	machine
+0.02842	their
+0.02842	for me
+0.02843	recommended 
+0.02843	edge of
+0.02844	if you do
+0.02851	the funniest
+0.02856	at the
+0.02858	a lot
+0.02867	as much
+0.02868	not_'s not_not
+0.02877	others
+0.02877	makes
+0.02880	not_hollywood
+0.02881	not_these
+0.02883	that has
+0.02884	based on
+0.02886	you will
+0.02893	it and
+0.02901	not_watch
+0.02911	this film
+0.02913	( the
+0.02919	's a great
+0.02919	itself
+0.02921	classic
+0.02927	for me 
+0.02935	not_for
+0.02944	very good
+0.02951	ways
+0.02962	face
+0.02979	my favorite
+0.02983	recommended
+0.02990	situations
+0.02992	the finest
+0.03000	perfect 
+0.03004	today
+0.03013	i have
+0.03014	brother
+0.03026	career
+0.03036	its a
+0.03054	moments
+0.03059	not_life
+0.03072	not_own
+0.03077	not_know
+0.03086	career 
+0.03089	ago
+0.03090	the end 
+0.03093	long
+0.03096	action 
+0.03102	liked
+0.03117	8/10
+0.03122	cinema
+0.03124	film 
+0.03126	not_ a
+0.03130	happy
+0.03131	and have
+0.03149	of its
+0.03151	makes this
+0.03156	saw this
+0.03167	see it 
+0.03167	can
+0.03167	not_if
+0.03168	not_from not_the
+0.03169	jean
+0.03176	i recommend
+0.03182	is
+0.03183	a must
+0.03190	not_but
+0.03203	not_who
+0.03209	beautifully
+0.03214	watch 
+0.03222	personal
+0.03226	episodes 
+0.03228	is great
+0.03234	night 
+0.03272	you do n't
+0.03275	back in
+0.03278	almost
+0.03279	room
+0.03280	in
+0.03281	7/10
+0.03297	well
+0.03300	in my
+0.03306	must
+0.03309	days
+0.03324	" and
+0.03325	entertaining
+0.03333	portrayal of
+0.03343	adds
+0.03345	more of
+0.03349	her
+0.03364	and is
+0.03367	not_it not_was
+0.03375	edge
+0.03378	too 
+0.03384	wonderful
+0.03396	series
+0.03438	one of
+0.03439	who 's
+0.03441	so much
+0.03475	day
+0.03480	woman
+0.03483	highly
+0.03499	comedy
+0.03508	average SENTI
+0.03511	and i
+0.03521	world
+0.03527	brilliant
+0.03540	based
+0.03545	famous
+0.03552	funniest
+0.03576	john
+0.03582	see
+0.03596	amazing 
+0.03621	the life
+0.03627	not_quite
+0.03629	has
+0.03657	country
+0.03657	us
+0.03663	believable
+0.03665	this is
+0.03668	the story
+0.03685	more 
+0.03695	from the
+0.03719	hard
+0.03754	strong
+0.03761	new
+0.03772	the time
+0.03778	's
+0.03791	was also
+0.03795	anyone
+0.03798	much more
+0.03836	recommend this
+0.03840	a little
+0.03840	back
+0.03843	is one of
+0.03866	powerful
+0.03887	fun 
+0.03899	opinion
+0.03906	to the
+0.03910	favorite
+0.03922	finest
+0.03931	story 
+0.03989	not_how
+0.04003	character
+0.04024	dream
+0.04032	once
+0.04045	there 's
+0.04056	those
+0.04058	fantastic
+0.04071	also a
+0.04073	style
+0.04092	her 
+0.04112	gives
+0.04127	later
+0.04136	this is a
+0.04142	is very
+0.04150	characters
+0.04157	'll
+0.04179	have to
+0.04196	go
+0.04197	film
+0.04200	however
+0.04210	what it
+0.04210	you do
+0.04223	portrayal
+0.04235	an
+0.04243	his own
+0.04254	touching
+0.04272	performances
+0.04283	's in
+0.04290	in his
+0.04325	simple
+0.04336	human
+0.04385	seeing
+0.04419	also
+0.04421	enjoy
+0.04446	for all
+0.04452	way
+0.04479	beautiful
+0.04493	together
+0.04493	played
+0.04510	watch
+0.04514	enjoyed
+0.04524	i thought
+0.04530	performance 
+0.04557	is the
+0.04615	watch it
+0.04648	worth
+0.04651	always
+0.04652	not_out
+0.04688	job
+0.04690	the two
+0.04729	of the best
+0.04747	see it
+0.04847	as the
+0.04859	not_from
+0.04860	great 
+0.04862	thought
+0.04882	not_in
+0.04889	works
+0.04947	not_and
+0.04951	which
+0.04981	you
+0.04989	true
+0.05002	the film
+0.05052	a very
+0.05059	not_)
+0.05063	loved
+0.05079	work
+0.05111	's a
+0.05161	life
+0.05165	it is a
+0.05171	be 
+0.05185	some of the
+0.05192	all of
+0.05192	more than
+0.05193	) 
+0.05197	family
+0.05234	american
+0.05241	years
+0.05317	dvd
+0.05344	between
+0.05389	who
+0.05423	episodes
+0.05603	not_its
+0.05626	some of
+0.05630	it has
+0.05680	perfect
+0.05692	all
+0.05699	romantic
+0.05716	amazing
+0.05828	own
+0.05904	fun
+0.05929	it is
+0.06003	not_'s
+0.06011	and it
+0.06115	excellent
+0.06201	many
+0.06225	on a
+0.06407	performance
+0.06679	a great
+0.06808	love
+0.06864	while
+0.06886	very
+0.07607	especially
+0.07711	best
+0.07898	the best
+0.07938	when
+0.08284	more
+0.08679	recommend
+0.09441	story
+0.09481	my
+0.09893	is a
+0.10066	both
+0.10370	still
+0.14434	great
+0.52521	average AFINN
