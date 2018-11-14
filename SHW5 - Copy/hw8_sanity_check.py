@@ -14,6 +14,7 @@ def check_get_hyponym(examples, hyponyms, first_synset2word):
     except Exception as e:
         print("Error!")
         print(e.args)
+
     
 def check_create_clusters(examples, first_synset2word, glove_dict):
     def cosine_sim(x, y):
